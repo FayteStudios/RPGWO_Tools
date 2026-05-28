@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\v001\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA12245-3298-4CEE-889C-35A50C234134}|src\\RPGWO.ServerTool\\RPGWO.ServerTool.csproj|c:\\users\\sorin\\onedrive\\desktop\\rpgwo_progress\\c#_tool\\v001\\src\\rpgwo.servertool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FA12245-3298-4CEE-889C-35A50C234134}|src\\RPGWO.ServerTool\\RPGWO.ServerTool.csproj|solutionrelative:src\\rpgwo.servertool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA12245-3298-4CEE-889C-35A50C234134}|src\\RPGWO.ServerTool\\RPGWO.ServerTool.csproj|c:\\users\\sorin\\onedrive\\desktop\\rpgwo_progress\\c#_tool\\v001\\src\\rpgwo.servertool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA12245-3298-4CEE-889C-35A50C234134}|src\\RPGWO.ServerTool\\RPGWO.ServerTool.csproj|solutionrelative:src\\rpgwo.servertool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA12245-3298-4CEE-889C-35A50C234134}|src\\RPGWO.ServerTool\\RPGWO.ServerTool.csproj|c:\\users\\sorin\\onedrive\\desktop\\rpgwo_progress\\c#_tool\\v001\\src\\rpgwo.servertool\\models\\itemfieldrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA12245-3298-4CEE-889C-35A50C234134}|src\\RPGWO.ServerTool\\RPGWO.ServerTool.csproj|solutionrelative:src\\rpgwo.servertool\\models\\itemfieldrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA12245-3298-4CEE-889C-35A50C234134}|src\\RPGWO.ServerTool\\RPGWO.ServerTool.csproj|c:\\users\\sorin\\onedrive\\desktop\\rpgwo_progress\\c#_tool\\v001\\src\\rpgwo.servertool\\models\\itemrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA12245-3298-4CEE-889C-35A50C234134}|src\\RPGWO.ServerTool\\RPGWO.ServerTool.csproj|solutionrelative:src\\rpgwo.servertool\\models\\itemrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA12245-3298-4CEE-889C-35A50C234134}|src\\RPGWO.ServerTool\\RPGWO.ServerTool.csproj|c:\\users\\sorin\\onedrive\\desktop\\rpgwo_progress\\c#_tool\\v001\\src\\rpgwo.servertool\\services\\worldeditorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA12245-3298-4CEE-889C-35A50C234134}|src\\RPGWO.ServerTool\\RPGWO.ServerTool.csproj|solutionrelative:src\\rpgwo.servertool\\services\\worldeditorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemRow.cs",
+              "DocumentMoniker": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\v001\\src\\RPGWO.ServerTool\\Models\\ItemRow.cs",
+              "RelativeDocumentMoniker": "src\\RPGWO.ServerTool\\Models\\ItemRow.cs",
+              "ToolTip": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\v001\\src\\RPGWO.ServerTool\\Models\\ItemRow.cs",
+              "RelativeToolTip": "src\\RPGWO.ServerTool\\Models\\ItemRow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T02:24:21.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemFieldRow.cs",
+              "DocumentMoniker": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\v001\\src\\RPGWO.ServerTool\\Models\\ItemFieldRow.cs",
+              "RelativeDocumentMoniker": "src\\RPGWO.ServerTool\\Models\\ItemFieldRow.cs",
+              "ToolTip": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\v001\\src\\RPGWO.ServerTool\\Models\\ItemFieldRow.cs",
+              "RelativeToolTip": "src\\RPGWO.ServerTool\\Models\\ItemFieldRow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T02:24:19.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorldEditorService.cs",
+              "DocumentMoniker": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\v001\\src\\RPGWO.ServerTool\\Services\\WorldEditorService.cs",
+              "RelativeDocumentMoniker": "src\\RPGWO.ServerTool\\Services\\WorldEditorService.cs",
+              "ToolTip": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\v001\\src\\RPGWO.ServerTool\\Services\\WorldEditorService.cs",
+              "RelativeToolTip": "src\\RPGWO.ServerTool\\Services\\WorldEditorService.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAUwJYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T21:53:07.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\v001\\src\\RPGWO.ServerTool\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "src\\RPGWO.ServerTool\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\v001\\src\\RPGWO.ServerTool\\MainWindow.xaml.cs",
+              "RelativeToolTip": "src\\RPGWO.ServerTool\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAADgv0UAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T21:33:17.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\v001\\src\\RPGWO.ServerTool\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "src\\RPGWO.ServerTool\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\v001\\src\\RPGWO.ServerTool\\MainWindow.xaml",
+              "RelativeToolTip": "src\\RPGWO.ServerTool\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-23T21:32:48.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

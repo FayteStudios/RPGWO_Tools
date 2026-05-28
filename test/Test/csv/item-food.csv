@@ -1,0 +1,272 @@
+"Name","Value","Food","Water","FoodLife","FoodStamina","FoodMana","PoisonCure","PoisonDamage"
+"Dandelion Seeds               ",5,1,0,0,0,0,0,0
+"Flax Plant Seeds              ",15,1,0,0,0,0,0,0
+"Germ Weed Seeds               ",5,1,0,0,0,0,0,0
+"Rye Weed Seeds                ",5,1,0,0,0,0,0,0
+"Nightshade Mushroom Seeds     ",5,1,0,0,0,0,0,0
+"Orange Blossom Seeds          ",5,1,0,0,0,0,0,0
+"Feather Bloom Seeds           ",5,1,0,0,0,0,0,0
+"Ruge Mushroom Seeds           ",5,1,0,0,0,0,0,0
+"Hayeberry Bush Seeds          ",5,1,0,0,0,0,0,0
+"Gold Moss Seeds               ",5,1,0,0,0,0,0,0
+"Blue Bell Seeds               ",5,1,0,0,0,0,0,0
+"Purple Rain Seeds             ",5,1,0,0,0,0,0,0
+"Starburst Seeds               ",5,1,0,0,0,0,0,0
+"Masik Vine Seeds              ",5,1,0,0,0,0,0,0
+"Fire Weed Seeds               ",5,1,0,0,0,0,0,0
+"Gyro Stem Seeds               ",5,1,0,0,0,0,0,0
+"Bamboo Seeds                  ",5,1,0,0,0,0,0,0
+"Sage Grass Seeds              ",5,1,0,0,0,0,0,0
+"Bunt Grass Seeds              ",5,1,0,0,0,0,0,0
+"Redd Grass Seeds              ",5,1,0,0,0,0,0,0
+"Cattails Seeds                ",5,1,0,0,0,0,0,0
+"Green Fern Seeds              ",5,1,0,0,0,0,0,0
+"Red Fern Seeds                ",5,1,0,0,0,0,0,0
+"Clover Seeds                  ",5,1,0,0,0,0,0,0
+"Zinnia Seeds                  ",5,1,0,0,0,0,0,0
+"Alyssum Seeds                 ",5,1,0,0,0,0,0,0
+"Yellow Fern Seeds             ",5,1,0,0,0,0,0,0
+"Black Tulip Seeds             ",5,1,0,0,0,0,0,0
+"White Tulip Seeds             ",5,1,0,0,0,0,0,0
+"Blue Moss Seeds               ",5,1,0,0,0,0,0,0
+"Mana Plant Seeds              ",10,1,0,0,0,0,0,0
+"Grey Berry Seeds              ",5,1,0,0,0,0,0,0
+"Blue Shroom Seeds             ",5,1,0,0,0,0,0,0
+"Red Shroom Seeds              ",5,1,0,0,0,0,0,0
+"Cactus Seeds                  ",5,1,0,0,0,0,0,0
+"Gyro Vine Seeds               ",5,1,0,0,0,0,0,0
+"Orange Blossom Moss Seeds     ",5,1,0,0,0,0,0,0
+"Jade Shroom Seeds             ",5,1,0,0,0,0,0,0
+"Drak Root Seeds               ",5,1,0,0,0,0,0,0
+"Blueberry                     ",5,5,0,0,2,0,0,0
+"Blueberry Seeds               ",5,1,0,0,0,0,0,0
+"Palm Tree Seeds               ",5,1,0,0,0,0,0,0
+"Pinnaple                      ",5,5,5,0,0,0,0,0
+"Pinnaple Seeds                ",1,1,0,0,0,0,0,0
+"Rasberry                      ",5,5,0,0,2,0,0,0
+"Rasberry Seeds                ",5,1,0,0,0,0,0,0
+"Grapes                        ",5,2,5,0,1,0,0,0
+"Grape Seeds                   ",5,1,0,0,0,0,0,0
+"Pine Tree Seeds               ",5,1,0,0,0,0,0,0
+"Banana                        ",5,5,0,0,3,0,0,0
+"Banana Seeds                  ",5,1,0,0,0,0,0,0
+"Strawberry                    ",5,5,0,0,2,0,0,0
+"Strawberry Seeds              ",5,1,0,0,0,0,0,0
+"Wheat Seeds                   ",5,5,0,0,0,0,0,0
+"Olive Seeds                   ",5,1,0,0,0,0,0,0
+"Lemon                         ",5,4,0,0,4,0,0,0
+"Lemon Seeds                   ",5,1,0,0,0,0,0,0
+"Lime                          ",5,4,0,0,4,0,0,0
+"Lime Seeds                    ",5,1,0,0,0,0,0,0
+"Orange                        ",5,5,5,0,5,0,0,0
+"Orange Seeds                  ",5,1,0,0,0,0,0,0
+"Red Rose Seeds                ",5,1,0,0,0,0,0,0
+"Blue Rose Seeds               ",5,1,0,0,0,0,0,0
+"Yellow Rose Seeds             ",5,1,0,0,0,0,0,0
+"Orange Rose Seeds             ",5,1,0,0,0,0,0,0
+"Red Apple                     ",5,5,0,0,2,0,0,0
+"Red Apple Seeds               ",5,1,0,0,0,0,0,0
+"Corn                          ",10,10,0,0,5,0,0,0
+"Corn Seeds                    ",5,1,0,0,0,0,0,0
+"Poison Arrows                 ",2,0,0,0,0,0,0,75
+"Mole Claws                    ",0,0,0,0,0,0,0,1
+"Mole Cheif Claws              ",0,0,0,0,0,0,0,2
+"Bat Bite                      ",0,0,0,0,0,0,0,1
+"Asp Bite                      ",0,0,0,0,0,0,0,50
+"Asp Spit                      ",0,0,0,0,0,0,0,25
+"Land Shark Bite               ",0,0,0,0,0,0,0,1
+"Skunk Spray                   ",0,0,0,0,0,0,0,15
+"Vampire Bat Bite              ",0,0,0,0,0,0,0,10
+"Mesa Scorpion Stinger         ",0,0,0,0,0,0,0,50
+"Maka Scorpion Stinger         ",0,0,0,0,0,0,0,20
+"Tera Scorpion Stinger         ",0,0,0,0,0,0,0,35
+"Bee Sting                     ",0,0,0,0,0,0,0,3
+"Ranthe Gorvor Sting           ",0,0,0,0,0,0,0,100
+"Spider Bite                   ",0,0,0,0,0,0,0,5
+"Vampire Bite                  ",0,0,0,0,0,0,0,20
+"Cobra Spit                    ",0,0,0,0,0,0,0,10
+"Damage VIII                   ",0,0,0,0,0,0,0,50
+"Venom Drain                   ",0,0,0,0,0,0,0,50
+"Bread Dough                   ",1,5,0,0,0,0,0,0
+"Baked Red Apple Pie           ",50,50,0,0,25,0,0,0
+"Baked Orange Pie              ",50,50,0,0,25,0,0,0
+"Baked Lemon Pie               ",50,50,0,0,25,0,0,0
+"Baked Lime Pie                ",50,50,0,0,25,0,0,0
+"Sliced Red Apple              ",1,5,0,0,0,0,0,0
+"Sliced Orange                 ",1,5,0,0,0,0,0,0
+"Lemonade                      ",0,0,0,0,0,0,0,0
+"Limeade                       ",0,0,0,0,0,0,0,0
+"Red Apple Pie Slice           ",10,12,0,0,6,0,0,0
+"Orange Pie Slice              ",10,12,0,0,6,0,0,0
+"Lemon Pie Slice               ",10,12,0,0,6,0,0,0
+"Lime Pie Slice                ",10,12,0,0,6,0,0,0
+"Red Apple Juice               ",10,0,0,0,0,0,0,0
+"Orange Juice                  ",10,0,0,0,0,0,0,0
+"Raw Fish Fillet               ",10,20,0,0,10,0,0,0
+"Cooked Fish Fillet            ",20,40,0,0,20,0,0,0
+"Well-Done Fish Fillet         ",10,10,0,0,5,0,0,0
+"Mug of Beer                   ",10,0,5,0,0,0,0,0
+"Sliced Strawberry             ",1,5,0,0,0,0,0,0
+"Sliced Grapes                 ",1,5,0,0,0,0,0,0
+"Sliced Blueberry              ",1,5,0,0,0,0,0,0
+"Sliced Pinnaple               ",1,5,0,0,0,0,0,0
+"Sliced Rasberry               ",1,5,0,0,0,0,0,0
+"Cookie Dough                  ",1,5,0,0,0,0,0,0
+"Cookie                        ",12,10,0,0,2,0,0,0
+"Cooked Egg                    ",10,20,0,0,5,0,0,0
+"Jerky                         ",10,25,0,0,5,0,0,0
+"Dried Fruit                   ",1,3,0,0,1,0,0,0
+"Salted Fish Fillet            ",10,15,0,0,8,0,0,0
+"Salted Gruppie Fillet         ",5,10,0,0,5,0,0,0
+"Dried Fish                    ",10,10,0,0,2,0,0,0
+"Salted Un-Cooked Large Ribs   ",50,0,0,0,0,0,0,0
+"Salted Un-Cooked Medium Ribs  ",50,0,0,0,0,0,0,0
+"Salted Un-Cooked Small Rib    ",50,0,0,0,0,0,0,0
+"Salted Un-Cooked Leg of Cow   ",50,0,0,0,0,0,0,0
+"Salted Un-Cooked Leg of Lamb  ",50,0,0,0,0,0,0,0
+"Salted Un-Cooked Chicken Leg  ",50,0,0,0,0,0,0,0
+"Milk                          ",33,0,30,0,5,0,0,0
+"Baked Fish                    ",137,50,0,0,25,0,0,0
+"Baked Gruppie                 ",83,30,0,0,15,0,0,0
+"Lobster                       ",27,10,0,0,5,0,0,0
+"Cooked Lobster                ",137,50,0,0,25,0,0,0
+"Cooked Large Ribs             ",250,200,0,0,40,0,0,0
+"Cooked Medium Ribs            ",188,150,0,0,30,0,0,0
+"Cooked Small Rib              ",125,100,0,0,20,0,0,0
+"Cooked Leg of Cow             ",200,200,0,0,30,0,0,0
+"Cooked Leg of Lamb            ",138,150,0,0,20,0,0,0
+"Cooked Chicken Leg            ",125,100,0,0,20,0,0,0
+"Bread                         ",10,50,0,0,25,0,0,0
+"Minor Ultima Potion           ",50,15,15,15,15,15,15,0
+"Major Ultima Potion           ",100,30,30,30,30,30,30,0
+"Mega Ultima Potion            ",150,45,45,45,45,45,45,0
+"Minor Stamina Potion          ",25,0,0,0,15,0,0,0
+"Major Stamina Potion          ",50,0,0,0,30,0,0,0
+"Mega Stamina Potion           ",75,0,0,0,45,0,0,0
+"Minor Mana Potion             ",25,0,0,0,0,15,0,0
+"Major Mana Potion             ",50,0,0,0,0,30,0,0
+"Mega Mana Potion              ",75,0,0,0,0,45,0,0
+"Minor Life Potion             ",25,0,0,15,0,0,0,0
+"Major Life Potion             ",50,0,0,30,0,0,0,0
+"Mega Life Potion              ",75,0,0,45,0,0,0,0
+"Minor Cure Potion             ",25,0,0,0,0,0,15,0
+"Major Cure Potion             ",50,0,0,0,0,0,30,0
+"Mega Cure Potion              ",75,0,0,0,0,0,45,0
+"Minor Strength Potion         ",30,0,0,0,0,0,0,0
+"Major Strength Potion         ",70,0,0,0,0,0,0,0
+"Mega Strength Potion          ",100,0,0,0,0,0,0,0
+"Minor Dexterity Potion        ",30,0,0,0,0,0,0,0
+"Major Dexterity Potion        ",70,0,0,0,0,0,0,0
+"Mega Dexterity Potion         ",100,0,0,0,0,0,0,0
+"Minor Quickness Potion        ",30,0,0,0,0,0,0,0
+"Major Quickness Potion        ",70,0,0,0,0,0,0,0
+"Mega Quickness Potion         ",100,0,0,0,0,0,0,0
+"Minor Intelligence Potion     ",30,0,0,0,0,0,0,0
+"Major Intelligence Potion     ",70,0,0,0,0,0,0,0
+"Mega Intelligence Potion      ",100,0,0,0,0,0,0,0
+"Minor Wisdom Potion           ",30,0,0,0,0,0,0,0
+"Major Wisdom Potion           ",70,0,0,0,0,0,0,0
+"Mega Wisdom Potion            ",100,0,0,0,0,0,0,0
+"Minor Sword Potion            ",50,0,0,0,0,0,0,0
+"Major Sword Potion            ",70,0,0,0,0,0,0,0
+"Mega Sword Potion             ",100,0,0,0,0,0,0,0
+"Minor Melee Defense Potion    ",50,0,0,0,0,0,0,0
+"Major Melee Defense Potion    ",70,0,0,0,0,0,0,0
+"Mega Melee Defense Potion     ",100,0,0,0,0,0,0,0
+"Minor Dagger Potion           ",50,0,0,0,0,0,0,0
+"Major Dagger Potion           ",70,0,0,0,0,0,0,0
+"Mega Dagger Potion            ",100,0,0,0,0,0,0,0
+"Minor Axe Potion              ",50,0,0,0,0,0,0,0
+"Major Axe Potion              ",70,0,0,0,0,0,0,0
+"Mega Axe Potion               ",100,0,0,0,0,0,0,0
+"Minor Unarmed Attack Potion   ",50,0,0,0,0,0,0,0
+"Major Unarmed Attack Potion   ",70,0,0,0,0,0,0,0
+"Mega Unarmed Attack Potion    ",100,0,0,0,0,0,0,0
+"Minor Mace Potion             ",50,0,0,0,0,0,0,0
+"Major Mace Potion             ",70,0,0,0,0,0,0,0
+"Mega Mace Potion              ",100,0,0,0,0,0,0,0
+"Minor Spear Potion            ",50,0,0,0,0,0,0,0
+"Major Spear Potion            ",70,0,0,0,0,0,0,0
+"Mega Spear Potion             ",100,0,0,0,0,0,0,0
+"Minor Staff Potion            ",50,0,0,0,0,0,0,0
+"Major Staff Potion            ",70,0,0,0,0,0,0,0
+"Mega Staff Potion             ",100,0,0,0,0,0,0,0
+"Minor Flail Potion            ",50,0,0,0,0,0,0,0
+"Major Flail Potion            ",70,0,0,0,0,0,0,0
+"Mega Flail Potion             ",100,0,0,0,0,0,0,0
+"Minor Scythe Potion           ",50,0,0,0,0,0,0,0
+"Major Scythe Potion           ",70,0,0,0,0,0,0,0
+"Mega Scythe Potion            ",100,0,0,0,0,0,0,0
+"Minor Missle Defense Potion   ",50,0,0,0,0,0,0,0
+"Major Missle Defense Potion   ",70,0,0,0,0,0,0,0
+"Mega Missle Defense Potion    ",100,0,0,0,0,0,0,0
+"Minor Bow Potion              ",50,0,0,0,0,0,0,0
+"Major Bow Potion              ",70,0,0,0,0,0,0,0
+"Mega Bow Potion               ",100,0,0,0,0,0,0,0
+"Minor Crossbow Potion         ",50,0,0,0,0,0,0,0
+"Major Crossbow Potion         ",70,0,0,0,0,0,0,0
+"Mega Crossbow Potion          ",100,0,0,0,0,0,0,0
+"Minor Throwing Potion         ",50,0,0,0,0,0,0,0
+"Major Throwing Potion         ",100,0,0,0,0,0,0,0
+"Mega Throwing Potion          ",100,0,0,0,0,0,0,0
+"Minor Blue Magic Potion       ",50,0,0,0,0,0,0,0
+"Major Blue Magic Potion       ",70,0,0,0,0,0,0,0
+"Mega Blue Magic Potion        ",100,0,0,0,0,0,0,0
+"Minor Black Magic Potion      ",50,0,0,0,0,0,0,0
+"Major Black Magic Potion      ",100,0,0,0,0,0,0,0
+"Mega Black Magic Potion       ",100,0,0,0,0,0,0,0
+"Minor White Magic Potion      ",50,0,0,0,0,0,0,0
+"Major White Magic Potion      ",100,0,0,0,0,0,0,0
+"Mega White Magic Potion       ",100,0,0,0,0,0,0,0
+"Minor Red Magic Potion        ",50,0,0,0,0,0,0,0
+"Major Red Magic Potion        ",100,0,0,0,0,0,0,0
+"Mega Red Magic Potion         ",100,0,0,0,0,0,0,0
+"Minor Magic Defense Potion    ",50,0,0,0,0,0,0,0
+"Major Magic Defense Potion    ",70,0,0,0,0,0,0,0
+"Mega Magic Defense Potion     ",100,0,0,0,0,0,0,0
+"Minor Mana Conversion Potion  ",50,0,0,0,0,0,0,0
+"Major Mana Conversion Potion  ",70,0,0,0,0,0,0,0
+"Mega Mana Conversion Potion   ",100,0,0,0,0,0,0,0
+"Minor Alchemy Potion          ",50,0,0,0,0,0,0,0
+"Major Alchemy Potion          ",100,0,0,0,0,0,0,0
+"Mega Alchemy Potion           ",100,0,0,0,0,0,0,0
+"Minor Jeweler Potion          ",50,0,0,0,0,0,0,0
+"Major Jeweler Potion          ",250,0,0,0,0,0,0,0
+"Mega Jeweler Potion           ",100,0,0,0,0,0,0,0
+"Minor Blacksmith Potion       ",50,0,0,0,0,0,0,0
+"Major Blacksmith Potion       ",100,0,0,0,0,0,0,0
+"Mega Blacksmith Potion        ",100,0,0,0,0,0,0,0
+"Minor Mining Potion           ",50,0,0,0,0,0,0,0
+"Major Mining Potion           ",100,0,0,0,0,0,0,0
+"Mega Mining Potion            ",100,0,0,0,0,0,0,0
+"Minor Fletching Potion        ",50,0,0,0,0,0,0,0
+"Major Fletching Potion        ",100,0,0,0,0,0,0,0
+"Mega Fletching Potion         ",100,0,0,0,0,0,0,0
+"Minor Locksmith Potion        ",50,0,0,0,0,0,0,0
+"Major Locksmith Potion        ",100,0,0,0,0,0,0,0
+"Mega Locksmith Potion         ",100,0,0,0,0,0,0,0
+"Minor Carpentry Potion        ",50,0,0,0,0,0,0,0
+"Major Carpentry Potion        ",100,0,0,0,0,0,0,0
+"Mega Carpentry Potion         ",100,0,0,0,0,0,0,0
+"Minor Stealth Potion          ",50,0,0,0,0,0,0,0
+"Major Stealth Potion          ",70,0,0,0,0,0,0,0
+"Mega Stealth Potion           ",100,0,0,0,0,0,0,0
+"Minor Scan Potion             ",50,0,0,0,0,0,0,0
+"Major Scan Potion             ",70,0,0,0,0,0,0,0
+"Mega Scan Potion              ",100,0,0,0,0,0,0,0
+"Minor Assess Potion           ",50,0,0,0,0,0,0,0
+"Major Assess Potion           ",70,0,0,0,0,0,0,0
+"Mega Assess Potion            ",100,0,0,0,0,0,0,0
+"Minor Trap Potion             ",50,0,0,0,0,0,0,0
+"Major Trap Potion             ",100,0,0,0,0,0,0,0
+"Mega Trap Potion              ",100,0,0,0,0,0,0,0
+"Fervor Spice                  ",200,100,100,100,100,100,0,50
+"Fervor Potion                 ",300,200,200,150,150,150,0,100
+"Distilled Vampire Blood       ",100,0,0,0,0,0,0,20
+"Raw Gruppie Fillet            ",5,15,0,0,5,0,0,0
+"Cooked Gruppie Fillet         ",15,30,0,0,15,0,0,0
+"Well-Done Fish Fillet         ",5,10,0,0,2,0,0,0
+"Earth Worm                    ",2,2,0,0,0,0,0,0
+"Ground Earth Worm             ",2,2,0,0,0,0,0,0
+"Red Team Food                 ",312,250,0,0,50,0,0,0
+"Blue Team Food                ",312,250,0,0,50,0,0,0

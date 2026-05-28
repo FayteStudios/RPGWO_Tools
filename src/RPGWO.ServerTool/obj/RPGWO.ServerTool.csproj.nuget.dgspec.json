@@ -1,0 +1,292 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.ServerTool\\RPGWO.ServerTool.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Core\\RPGWO.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Core\\RPGWO.Core.csproj",
+        "projectName": "RPGWO.Core",
+        "projectPath": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Core\\RPGWO.Core.csproj",
+        "packagesPath": "C:\\Users\\sorin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sorin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Data\\RPGWO.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Data\\RPGWO.Data.csproj",
+        "projectName": "RPGWO.Data",
+        "projectPath": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Data\\RPGWO.Data.csproj",
+        "packagesPath": "C:\\Users\\sorin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sorin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Core\\RPGWO.Core.csproj": {
+                "projectPath": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Core\\RPGWO.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Formats\\RPGWO.Formats.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Formats\\RPGWO.Formats.csproj",
+        "projectName": "RPGWO.Formats",
+        "projectPath": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Formats\\RPGWO.Formats.csproj",
+        "packagesPath": "C:\\Users\\sorin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Formats\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sorin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Core\\RPGWO.Core.csproj": {
+                "projectPath": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Core\\RPGWO.Core.csproj"
+              },
+              "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Data\\RPGWO.Data.csproj": {
+                "projectPath": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Data\\RPGWO.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.ServerTool\\RPGWO.ServerTool.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.ServerTool\\RPGWO.ServerTool.csproj",
+        "projectName": "RPGWO.ServerTool",
+        "projectPath": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.ServerTool\\RPGWO.ServerTool.csproj",
+        "packagesPath": "C:\\Users\\sorin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.ServerTool\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sorin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {
+              "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Core\\RPGWO.Core.csproj": {
+                "projectPath": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Core\\RPGWO.Core.csproj"
+              },
+              "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Data\\RPGWO.Data.csproj": {
+                "projectPath": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Data\\RPGWO.Data.csproj"
+              },
+              "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Formats\\RPGWO.Formats.csproj": {
+                "projectPath": "C:\\Users\\sorin\\OneDrive\\Desktop\\RPGWO_Progress\\C#_Tool\\RPGWO_Tools\\src\\RPGWO.Formats\\RPGWO.Formats.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

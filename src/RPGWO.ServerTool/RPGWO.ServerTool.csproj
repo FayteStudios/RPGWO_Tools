@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RPGWO.Core\RPGWO.Core.csproj" />
+    <ProjectReference Include="..\RPGWO.Data\RPGWO.Data.csproj" />
+    <ProjectReference Include="..\RPGWO.Formats\RPGWO.Formats.csproj" />
+  </ItemGroup>
+
+</Project>

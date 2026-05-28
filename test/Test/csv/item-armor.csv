@@ -1,0 +1,135 @@
+"Name","Value","TOTAL AL","AL","MAL","Burden"
+"Leather Cap                   ",120,4,2,2,50
+"Leather Chest Armor           ",120,4,2,2,400
+"Leather Leggings              ",120,4,2,2,200
+"Hardened Leather Cap          ",240,8,4,4,50
+"Hardened Leather Chest Armor  ",240,8,4,4,400
+"Hardened Leather Leggings     ",240,8,4,4,200
+"Copper Helmet Chain           ",180,6,3,3,75
+"Copper Chest Chain            ",180,6,3,3,300
+"Copper Leggings Chain         ",180,6,3,3,300
+"Copper Helmet Scale           ",240,8,4,4,112
+"Copper Chest Scale            ",240,8,4,4,450
+"Copper Leggings Scale         ",240,8,4,4,450
+"Copper Helmet Plate           ",300,10,5,5,150
+"Copper Chest Plate            ",300,10,5,5,600
+"Copper Leggings Plate         ",300,10,5,5,600
+"Silver Helmet Chain           ",360,12,6,6,187
+"Silver Chest Chain            ",360,12,6,6,750
+"Silver Leggings Chain         ",360,12,6,6,750
+"Silver Helmet Scale           ",420,14,7,7,225
+"Silver Chest Scale            ",420,14,7,7,900
+"Silver Leggings Scale         ",420,14,7,7,900
+"Silver Helmet Plate           ",480,16,8,8,262
+"Silver Chest Plate            ",480,16,8,8,1050
+"Silver Leggings Plate         ",480,16,8,8,1050
+"Iron Helmet Chain             ",540,18,9,9,300
+"Iron Chest Chain              ",540,18,9,9,1200
+"Iron Leggings Chain           ",540,18,9,9,1200
+"Iron Helmet Scale             ",600,20,10,10,337
+"Iron Chest Scale              ",600,20,10,10,1350
+"Iron Leggings Scale           ",600,20,10,10,1350
+"Iron Helmet Plate             ",660,22,11,11,375
+"Iron Chest Plate              ",660,22,11,11,1500
+"Iron Leggings Plate           ",660,22,11,11,1500
+"Steel Helmet Chain            ",720,24,12,12,300
+"Steel Chest Chain             ",720,24,12,12,1200
+"Steel Leggings Chain          ",720,24,12,12,1200
+"Steel Helmet Scale            ",780,26,13,13,337
+"Steel Chest Scale             ",780,26,13,13,1350
+"Steel Leggings Scale          ",780,26,13,13,1350
+"Steel Helmet Plate            ",840,28,14,14,375
+"Steel Chest Plate             ",840,28,14,14,1500
+"Steel Leggings Plate          ",840,28,14,14,1500
+"Gold Helmet Chain             ",720,24,12,12,412
+"Gold Chest Chain              ",720,24,12,12,1650
+"Gold Leggings Chain           ",720,24,12,12,1650
+"Gold Helmet Scale             ",780,26,13,13,450
+"Gold Chest Scale              ",780,26,13,13,1800
+"Gold Leggings Scale           ",780,26,13,13,1800
+"Gold Helmet Plate             ",840,28,14,14,487
+"Gold Chest Plate              ",840,28,14,14,1950
+"Gold Leggings Plate           ",840,28,14,14,1950
+"Zircon Helmet Chain           ",900,30,15,15,525
+"Zircon Chest Chain            ",900,30,15,15,2100
+"Zircon Leggings Chain         ",900,30,15,15,2100
+"Zircon Helmet Scale           ",960,32,16,16,562
+"Zircon Chest Scale            ",960,32,16,16,2250
+"Zircon Leggings Scale         ",960,32,16,16,2250
+"Zircon Helmet Plate           ",1020,34,17,17,600
+"Zircon Chest Plate            ",1020,34,17,17,2400
+"Zircon Leggings Plate         ",1020,34,17,17,2400
+"Titanium Helmet Chain         ",1080,36,18,18,637
+"Titanium Chest Chain          ",1080,36,18,18,2550
+"Titanium Leggings Chain       ",1080,36,18,18,2550
+"Titanium Helmet Scale         ",1140,38,19,19,675
+"Titanium Chest Scale          ",1140,38,19,19,2700
+"Titanium Leggings Scale       ",1140,38,19,19,2700
+"Titanium Helmet Plate         ",1200,40,20,20,712
+"Titanium Chest Plate          ",1200,40,20,20,2850
+"Titanium Leggings Plate       ",1200,40,20,20,2850
+"Hessite Helmet Chain          ",1260,42,21,21,750
+"Hessite Chest Chain           ",1260,42,21,21,3000
+"Hessite Leggings Chain        ",1260,42,21,21,3000
+"Hessite Helmet Scale          ",1320,44,22,22,787
+"Hessite Chest Scale           ",1320,44,22,22,3150
+"Hessite Leggings Scale        ",1320,44,22,22,3150
+"Hessite Helmet Plate          ",1380,46,23,23,825
+"Hessite Chest Plate           ",1380,46,23,23,3300
+"Hessite Leggings Plate        ",1380,46,23,23,3300
+"Tungsten Helmet Chain         ",1440,48,24,24,500
+"Tungsten Chest Chain          ",1440,48,24,24,1500
+"Tungsten Leggings Chain       ",1440,48,24,24,1500
+"Tungsten Helmet Scale         ",1500,50,25,25,500
+"Tungsten Chest Scale          ",1500,50,25,25,1500
+"Tungsten Leggings Scale       ",1500,50,25,25,1500
+"Tungsten Helmet Plate         ",1560,52,26,26,500
+"Tungsten Chest Plate          ",1560,52,26,26,1500
+"Tungsten Leggings Plate       ",1560,52,26,26,1500
+"Damon Helmet Chain            ",1620,54,27,27,250
+"Damon Chest Chain             ",1620,54,27,27,1000
+"Damon Leggings Chain          ",1620,54,27,27,1000
+"Damon Helmet Scale            ",1680,56,28,28,250
+"Damon Chest Scale             ",1680,56,28,28,1000
+"Damon Leggings Scale          ",1680,56,28,28,1000
+"Damon Helmet Plate            ",1740,58,29,29,250
+"Damon Chest Plate             ",1740,58,29,29,1000
+"Damon Leggings Plate          ",1740,58,29,29,1000
+"Magma Helmet                  ",1200,40,20,20,350
+"Magma Chest Armor             ",1200,40,20,20,1000
+"Magma Leggings                ",1200,40,20,20,1000
+"Magnetite Helmet Chain        ",480,28,8,20,100
+"Magnetite Chest Chain         ",480,28,8,20,400
+"Magnetite Leggings Chain      ",480,28,8,20,400
+"Magnetite Helmet Scale        ",600,40,10,30,200
+"Magnetite Chest Scale         ",600,40,10,30,800
+"Magnetite Leggings Scale      ",600,40,10,30,800
+"Magnetite Helmet Plate        ",720,52,12,40,300
+"Magnetite Chest Plate         ",720,52,12,40,1200
+"Magnetite Leggings Plate      ",720,52,12,40,1200
+"Mutant Leather Cap            ",360,12,6,6,50
+"Mutant Leather Armor          ",360,12,6,6,400
+"Mutant Leather Leggings       ",360,12,6,6,400
+"Elk Leather Cap               ",540,18,9,9,100
+"Elk Leather Armor             ",540,18,9,9,600
+"Elk Leather Leggings          ",540,18,9,9,600
+"Drake Scale Helmet            ",720,24,12,12,225
+"Drake Chest Scale             ",720,24,12,12,900
+"Drake Scale Leggings          ",720,24,12,12,900
+"Mongrim Leather Helmet        ",900,30,15,15,225
+"Mongrim Leather Armor         ",900,30,15,15,900
+"Mongrim Leather Leggings      ",900,30,15,15,900
+"Dragon Scale Helmet           ",1080,36,18,18,250
+"Dragon Scale Armor            ",1080,36,18,18,1000
+"Dragon Scale Leggings         ",1080,36,18,18,1000
+"Skunk Helmet                  ",600,20,10,10,150
+"Viking Helmet                 ",1500,50,25,25,100
+"Elite Viking Helmet           ",1800,60,30,30,100
+"Santa's Jacket                ",60,1,1,0,10
+"Santa's Pants                 ",60,1,1,0,10
+"Sewer Helmet                  ",720,36,12,24,300
+"Miners Hat                    ",240,8,4,4,100
+"Santa's Cap                   ",60,1,1,0,10
+"Blue Jersey                   ",0,0,0,0,10
+"Red Jersey                    ",0,0,0,0,10
+"Referee Jersey                ",0,0,0,0,10

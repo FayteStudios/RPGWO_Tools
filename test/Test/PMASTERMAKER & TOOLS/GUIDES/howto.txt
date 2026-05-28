@@ -1,0 +1,47 @@
+RPGWO 1.x Server HowTo : Sept 1, 2009
+
+Here is some basic info on setup and running a RPGWO server/world.
+
+-----------------------------
+
+Question: How do I setup the files?
+
+Answer: Create a new folder and name it something like "server". Unzip the server folder in the zip file to the new folder you created. The server.exe and the .ini files should now be there.
+
+-----------------------------
+
+Question: How do I create a world?
+
+Answer: The default map size in world.ini is 400. Edit that setting if you want bigger or smaller. Warning though, only sizes in increments of 200 is recommended and been tested. So 200, 400, 600, 800, etc. Start the server.exe program. If no map data exist then ti will ask for a seed value. Maps 400 and larger get generated based on the seed. Map size 200 just get a flat map.
+
+-----------------------------
+
+Question: I have an empty world... how do I add trees and crap?
+
+Answer: There is a button on the server called "Add Content"... press that.
+
+-----------------------------
+
+Question: What does "deepen ocean" button do?
+
+Answer: um, it makes the water deeper so you can fish for deeper fish.
+
+-----------------------------
+
+Question: How do I add monster wilderness spawns?
+
+Answer: They are spaced in every 50x50 area. The chat command /monstercatagory <number> will set the spawn. The catagory numbers can be found and set in the monster.ini file. /monstersectorcatagory <number> will set a 4x4 or an entire sector.
+
+-----------------------------
+
+Question: Connect to a server not on the list?
+
+Answer: Use the Local or Specify option under the list. You will need a folder named Local.Files in the client install folder. It needs to contain the client content files for the world you are connecting.
+
+-----------------------------
+
+Question: How to update the client files?
+
+Answer: First, get all the client content files in a seperate folder. Then run the pMasterMaker program and press the Auto button. When it is done copy the master2.dat and *.zlib files to your internet/web update address.
+
+-----------------------------

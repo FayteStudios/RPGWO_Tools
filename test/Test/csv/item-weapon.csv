@@ -1,0 +1,997 @@
+"Name","Skill","Rating","Damage Low","Damage High","Speed","Burden","Poison","Range","2-Hand","Value","SkillReq"
+"Tiny Granite Rock             ",14,30,2,4,1,5,0,3,#FALSE#,0,56
+"Small Granite Rock            ",0,0,0,0,0,100,0,1,#FALSE#,1,0
+"Practice Dagger               ",3,15,1,2,1,50,0,1,#FALSE#,1,1
+"Copper Dagger                 ",3,30,2,4,1,25,0,1,#FALSE#,320,56
+"Copper Knife                  ",3,30,2,4,1,60,0,1,#FALSE#,320,56
+"Long Copper Dagger            ",3,35,2,5,1,50,0,1,#FALSE#,370,75
+"Long Copper Knife             ",3,35,2,5,1,60,0,1,#FALSE#,370,75
+"Zephyrium Copper Dagger       ",3,30,2,4,1,25,0,1,#FALSE#,320,56
+"Zephyrium Copper Knife        ",3,30,2,4,1,60,0,1,#FALSE#,320,56
+"Long Zephyrium Copper Dagger  ",3,35,2,5,1,50,0,1,#FALSE#,370,75
+"Long Zephyrium Copper Knife   ",3,35,2,5,1,60,0,1,#FALSE#,370,75
+"Silver Dagger                 ",3,40,3,5,1,50,0,1,#FALSE#,420,94
+"Silver Knife                  ",3,40,3,5,1,60,0,1,#FALSE#,420,94
+"Long Silver Dagger            ",3,45,3,6,1,50,0,1,#FALSE#,470,112
+"Long Silver Knife             ",3,45,3,6,1,60,0,1,#FALSE#,470,112
+"Zephyrium Silver Dagger       ",3,40,3,5,1,50,0,1,#FALSE#,420,94
+"Zephyrium Silver Knife        ",3,40,3,5,1,60,0,1,#FALSE#,420,94
+"Long Zephyrium Silver Dagger  ",3,45,3,6,1,50,0,1,#FALSE#,470,112
+"Long Zephyrium Silver Knife   ",3,45,3,6,1,60,0,1,#FALSE#,470,112
+"Iron Dagger                   ",3,50,4,6,1,50,0,1,#FALSE#,520,131
+"Iron Knife                    ",3,50,4,6,1,60,0,1,#FALSE#,520,131
+"Long Iron Dagger              ",3,55,4,7,1,50,0,1,#FALSE#,570,150
+"Long Iron Knife               ",3,55,4,7,1,60,0,1,#FALSE#,570,150
+"Zephyrium Iron Dagger         ",3,50,4,6,1,50,0,1,#FALSE#,520,131
+"Zephyrium Iron Knife          ",3,50,4,6,1,60,0,1,#FALSE#,520,131
+"Long Zephyrium Iron Dagger    ",3,55,4,7,1,50,0,1,#FALSE#,570,150
+"Long Zephyrium Iron Knife     ",3,55,4,7,1,60,0,1,#FALSE#,570,150
+"Steel Dagger                  ",3,60,5,7,1,50,0,1,#FALSE#,620,169
+"Steel Knife                   ",3,60,5,7,1,60,0,1,#FALSE#,620,169
+"Long Steel Dagger             ",3,65,5,8,1,50,0,1,#FALSE#,670,188
+"Long Steel Knife              ",3,65,5,8,1,60,0,1,#FALSE#,670,188
+"Zephyrium Steel Dagger        ",3,60,5,7,1,50,0,1,#FALSE#,620,169
+"Zephyrium Steel Knife         ",3,60,5,7,1,60,0,1,#FALSE#,620,169
+"Long Zephyrium Steel Dagger   ",3,65,5,8,1,50,0,1,#FALSE#,670,188
+"Long Zephyrium Steel Knife    ",3,65,5,8,1,60,0,1,#FALSE#,670,188
+"Gold Dagger                   ",3,70,6,8,1,50,0,1,#FALSE#,720,206
+"Gold Knife                    ",3,70,6,8,1,60,0,1,#FALSE#,720,206
+"Long Gold Dagger              ",3,75,6,9,1,50,0,1,#FALSE#,770,225
+"Long Gold Knife               ",3,75,6,9,1,60,0,1,#FALSE#,770,225
+"Zephyrium Gold Dagger         ",3,70,6,8,1,50,0,1,#FALSE#,720,206
+"Zephyrium Gold Knife          ",3,70,6,8,1,60,0,1,#FALSE#,720,206
+"Long Zephyrium Gold Dagger    ",3,75,6,9,1,50,0,1,#FALSE#,770,225
+"Long Zephyrium Gold Knife     ",3,75,6,9,1,60,0,1,#FALSE#,770,225
+"Zircon Dagger                 ",3,80,7,9,1,50,0,1,#FALSE#,820,244
+"Zircon Knife                  ",3,80,7,9,1,60,0,1,#FALSE#,820,244
+"Long Zircon Dagger            ",3,85,7,10,1,50,0,1,#FALSE#,870,262
+"Long Zircon Knife             ",3,85,7,10,1,60,0,1,#FALSE#,870,262
+"Zephyrium Zircon Dagger       ",3,80,7,9,1,50,0,1,#FALSE#,820,244
+"Zephyrium Zircon Knife        ",3,80,7,9,1,60,0,1,#FALSE#,820,244
+"Long Zephyrium Zircon Dagger  ",3,85,7,10,1,50,0,1,#FALSE#,870,262
+"Long Zephyrium Zircon Knife   ",3,85,7,10,1,60,0,1,#FALSE#,870,262
+"Titanium Dagger               ",3,90,8,10,1,50,0,1,#FALSE#,920,281
+"Titanium Knife                ",3,90,8,10,1,60,0,1,#FALSE#,920,281
+"Long Titanium Dagger          ",3,95,8,11,1,50,0,1,#FALSE#,970,300
+"Long Titanium Knife           ",3,95,8,11,1,60,0,1,#FALSE#,970,300
+"Zephyrium Titanium Dagger     ",3,90,8,10,1,50,0,1,#FALSE#,920,281
+"Zephyrium Titanium Knife      ",3,90,8,10,1,60,0,1,#FALSE#,920,281
+"Long Zephyrium Titanium Dagger",3,95,8,11,1,50,0,1,#FALSE#,970,300
+"Long Zephyrium Titanium Knife ",3,95,8,11,1,60,0,1,#FALSE#,970,300
+"Hessite Dagger                ",3,100,9,11,1,50,0,1,#FALSE#,1020,319
+"Hessite Knife                 ",3,100,9,11,1,60,0,1,#FALSE#,1020,319
+"Long Hessite Dagger           ",3,105,9,12,1,50,0,1,#FALSE#,1070,338
+"Long Hessite Knife            ",3,105,9,12,1,60,0,1,#FALSE#,1070,338
+"Zephyrium Hessite Dagger      ",3,100,9,11,1,50,0,1,#FALSE#,1020,319
+"Zephyrium Hessite Knife       ",3,100,9,11,1,60,0,1,#FALSE#,1020,319
+"Long Zephyrium Hessite Dagger ",3,105,9,12,1,50,0,1,#FALSE#,1070,338
+"Long Zephyrium Hessite Knife  ",3,105,9,12,1,60,0,1,#FALSE#,1070,338
+"Tungsten Dagger               ",3,110,10,12,1,50,0,1,#FALSE#,1120,356
+"Tungsten Knife                ",3,110,10,12,1,60,0,1,#FALSE#,1120,356
+"Long Tungsten Dagger          ",3,115,10,13,1,50,0,1,#FALSE#,1170,375
+"Long Tungsten Knife           ",3,115,10,13,1,60,0,1,#FALSE#,1170,375
+"Zephyrium Tungsten Dagger     ",3,110,10,12,1,50,0,1,#FALSE#,1120,356
+"Zephyrium Tungsten Knife      ",3,110,10,12,1,60,0,1,#FALSE#,1120,356
+"Long Zephyrium Tungsten Dagger",3,115,10,13,1,50,0,1,#FALSE#,1170,375
+"Long Zephyrium Tungsten Knife ",3,115,10,13,1,60,0,1,#FALSE#,1170,375
+"Damon Dagger                  ",3,125,11,14,1,50,0,1,#FALSE#,1270,412
+"Damon Knife                   ",3,125,11,14,1,50,0,1,#FALSE#,1270,412
+"Long Damon Dagger             ",3,135,12,15,1,50,0,1,#FALSE#,1370,450
+"Long Damon Knife              ",3,135,12,15,1,50,0,1,#FALSE#,1370,450
+"Zephyrium Damon Dagger        ",3,125,11,14,1,50,0,1,#FALSE#,1270,412
+"Zephyrium Damon Knife         ",3,125,11,14,1,50,0,1,#FALSE#,1270,412
+"Long Zephyrium Damon Dagger   ",3,135,12,15,1,50,0,1,#FALSE#,1370,450
+"Long Zephyrium Damon Knife    ",3,135,12,15,1,50,0,1,#FALSE#,1370,450
+"Artifact Dagger               ",3,0,0,0,1.5,100,0,1,#FALSE#,20,100
+"Practice Short Sword          ",4,20,2,4,1.5,200,0,1,#FALSE#,1,1
+"Copper Short Sword            ",4,33.33333,3,7,1.5,200,0,1,#FALSE#,353,69
+"Copper Long Sword             ",4,36.66667,4,7,1.5,300,0,1,#FALSE#,387,81
+"Copper Broad Sword            ",4,40,4,8,1.5,400,0,1,#FALSE#,420,94
+"Copper Great Sword            ",4,35.29412,4,8,1.7,500,0,1,#TRUE#,373,76
+"Zephyrium Copper Short Sword  ",4,33.33333,3,7,1.5,200,0,1,#FALSE#,353,69
+"Zephyrium Copper Long Sword   ",4,36.66667,4,7,1.5,300,0,1,#FALSE#,387,81
+"Zephyrium Copper Broad Sword  ",4,40,4,8,1.5,400,0,1,#FALSE#,420,94
+"Zephyrium Copper Great Sword  ",4,35.29412,4,8,1.7,500,0,1,#TRUE#,373,76
+"Silver Short Sword            ",4,46.66667,5,9,1.5,200,0,1,#FALSE#,487,119
+"Silver Long Sword             ",4,50,6,9,1.5,300,0,1,#FALSE#,520,131
+"Silver Broad Sword            ",4,53.33333,6,10,1.5,400,0,1,#FALSE#,553,144
+"Silver Great Sword            ",4,47.05882,6,10,1.7,500,0,1,#TRUE#,491,120
+"Zephyrium Silver Short Sword  ",4,46.66667,5,9,1.5,200,0,1,#FALSE#,487,119
+"Zephyrium Silver Long Sword   ",4,50,6,9,1.5,300,0,1,#FALSE#,520,131
+"Zephyrium Silver Broad Sword  ",4,53.33333,6,10,1.5,400,0,1,#FALSE#,553,144
+"Zephyrium Silver Great Sword  ",4,47.05882,6,10,1.7,500,0,1,#TRUE#,491,120
+"Iron Short Sword              ",4,60,7,11,1.5,200,0,1,#FALSE#,620,169
+"Iron Long Sword               ",4,63.33333,8,11,1.5,300,0,1,#FALSE#,653,181
+"Iron Broad Sword              ",4,66.66666,8,12,1.5,400,0,1,#FALSE#,687,194
+"Iron Great Sword              ",4,58.82353,8,12,1.7,500,0,1,#TRUE#,608,164
+"Zephyrium Iron Short Sword    ",4,60,7,11,1.5,200,0,1,#FALSE#,620,169
+"Zephyrium Iron Long Sword     ",4,63.33333,8,11,1.5,300,0,1,#FALSE#,653,181
+"Zephyrium Iron Broad Sword    ",4,66.66666,8,12,1.5,400,0,1,#FALSE#,687,194
+"Zephyrium Iron Great Sword    ",4,58.82353,8,12,1.7,500,0,1,#TRUE#,608,164
+"Steel Short Sword             ",4,73.33334,9,13,1.5,200,0,1,#FALSE#,753,219
+"Steel Long Sword              ",4,76.66666,10,13,1.5,300,0,1,#FALSE#,787,231
+"Steel Broad Sword             ",4,80,10,14,1.5,400,0,1,#FALSE#,820,244
+"Steel Great Sword             ",4,70.58823,10,14,1.7,500,0,1,#TRUE#,726,208
+"Zephyrium Steel Short Sword   ",4,73.33334,9,13,1.5,200,0,1,#FALSE#,753,219
+"Zephyrium Steel Long Sword    ",4,76.66666,10,13,1.5,300,0,1,#FALSE#,787,231
+"Zephyrium Steel Broad Sword   ",4,80,10,14,1.5,400,0,1,#FALSE#,820,244
+"Zephyrium Steel Great Sword   ",4,70.58823,10,14,1.7,500,0,1,#TRUE#,726,208
+"Gold Short Sword              ",4,86.66666,11,15,1.5,200,0,1,#FALSE#,887,269
+"Gold Long Sword               ",4,90,12,15,1.5,300,0,1,#FALSE#,920,281
+"Gold Broad Sword              ",4,93.33334,12,16,1.5,400,0,1,#FALSE#,953,294
+"Gold Great Sword              ",4,82.35294,12,16,1.7,500,0,1,#TRUE#,844,253
+"Zephyrium Gold Short Sword    ",4,86.66666,11,15,1.5,200,0,1,#FALSE#,887,269
+"Zephyrium Gold Long Sword     ",4,90,12,15,1.5,300,0,1,#FALSE#,920,281
+"Zephyrium Gold Broad Sword    ",4,93.33334,12,16,1.5,400,0,1,#FALSE#,953,294
+"Zephyrium Gold Great Sword    ",4,82.35294,12,16,1.7,500,0,1,#TRUE#,844,253
+"Zircon Short Sword            ",4,100,13,17,1.5,200,0,1,#FALSE#,1020,319
+"Zircon Long Sword             ",4,103.3333,14,17,1.5,300,0,1,#FALSE#,1053,331
+"Zircon Broad Sword            ",4,106.6667,14,18,1.5,400,0,1,#FALSE#,1087,344
+"Zircon Great Sword            ",4,94.11765,14,18,1.7,500,0,1,#TRUE#,961,297
+"Zephyrium Zircon Short Sword  ",4,100,13,17,1.5,200,0,1,#FALSE#,1020,319
+"Zephyrium Zircon Long Sword   ",4,103.3333,14,17,1.5,300,0,1,#FALSE#,1053,331
+"Zephyrium Zircon Broad Sword  ",4,106.6667,14,18,1.5,400,0,1,#FALSE#,1087,344
+"Zephyrium Zircon Great Sword  ",4,94.11765,14,18,1.7,500,0,1,#TRUE#,961,297
+"Titanium Short Sword          ",4,113.3333,15,19,1.5,200,0,1,#FALSE#,1153,369
+"Titanium Long Sword           ",4,116.6667,16,19,1.5,300,0,1,#FALSE#,1187,381
+"Titanium Broad Sword          ",4,120,16,20,1.5,400,0,1,#FALSE#,1220,394
+"Titanium Great Sword          ",4,105.8823,16,20,1.7,500,0,1,#TRUE#,1079,341
+"Zephyrium Titanium Short Sword",4,113.3333,15,19,1.5,200,0,1,#FALSE#,1153,369
+"Zephyrium Titanium Long Sword ",4,116.6667,16,19,1.5,300,0,1,#FALSE#,1187,381
+"Zephyrium Titanium Broad Sword",4,120,16,20,1.5,400,0,1,#FALSE#,1220,394
+"Zephyrium Titanium Great Sword",4,105.8823,16,20,1.7,500,0,1,#TRUE#,1079,341
+"Hessite Short Sword           ",4,126.6667,17,21,1.5,200,0,1,#FALSE#,1287,419
+"Hessite Long Sword            ",4,130,18,21,1.5,300,0,1,#FALSE#,1320,431
+"Hessite Broad Sword           ",4,133.3333,18,22,1.5,400,0,1,#FALSE#,1353,444
+"Hessite Great Sword           ",4,117.6471,18,22,1.7,500,0,1,#TRUE#,1196,385
+"Zephyrium Hessite Short Sword ",4,126.6667,17,21,1.5,200,0,1,#FALSE#,1287,419
+"Zephyrium Hessite Long Sword  ",4,130,18,21,1.5,300,0,1,#FALSE#,1320,431
+"Zephyrium Hessite Broad Sword ",4,133.3333,18,22,1.5,400,0,1,#FALSE#,1353,444
+"Zephyrium Hessite Great Sword ",4,117.6471,18,22,1.7,500,0,1,#TRUE#,1196,385
+"Tungsten Short Sword          ",4,140,19,23,1.5,200,0,1,#FALSE#,1420,469
+"Tungsten Long Sword           ",4,143.3333,20,23,1.5,300,0,1,#FALSE#,1453,481
+"Tungsten Broad Sword          ",4,146.6667,20,24,1.5,400,0,1,#FALSE#,1487,494
+"Tungsten Great Sword          ",4,129.4118,20,24,1.7,500,0,1,#TRUE#,1314,429
+"Zephyrium Tungsten Short Sword",4,140,19,23,1.5,200,0,1,#FALSE#,1420,469
+"Zephyrium Tungsten Long Sword ",4,143.3333,20,23,1.5,300,0,1,#FALSE#,1453,481
+"Zephyrium Tungsten Broad Sword",4,146.6667,20,24,1.5,400,0,1,#FALSE#,1487,494
+"Zephyrium Tungsten Great Sword",4,129.4118,20,24,1.7,500,0,1,#TRUE#,1314,429
+"Damon Short Sword             ",4,153.3333,21,25,1.5,200,0,1,#FALSE#,1553,519
+"Damon Long Sword              ",4,156.6667,22,25,1.5,300,0,1,#FALSE#,1587,531
+"Damon Broad Sword             ",4,160,22,26,1.5,400,0,1,#FALSE#,1620,544
+"Damon Great Sword             ",4,141.1765,22,26,1.7,500,0,1,#TRUE#,1432,473
+"Zephyrium Damon Short Sword   ",4,153.3333,21,25,1.5,200,0,1,#FALSE#,1553,519
+"Zephyrium Damon Long Sword    ",4,156.6667,22,25,1.5,300,0,1,#FALSE#,1587,531
+"Zephyrium Damon Broad Sword   ",4,160,22,26,1.5,400,0,1,#FALSE#,1620,544
+"Zephyrium Damon Great Sword   ",4,141.1765,22,26,1.7,500,0,1,#TRUE#,1432,473
+"Artifact Sword                ",4,0,0,0,1.5,400,0,1,#FALSE#,20,100
+"Practice Hand Axe             ",5,20,2,4,1.5,200,0,1,#FALSE#,1,1
+"Copper Hand Axe               ",5,33.33333,3,7,1.5,200,0,1,#FALSE#,353,69
+"Copper Heavy Axe              ",5,36.66667,4,7,1.5,300,0,1,#FALSE#,387,81
+"Copper Battle Axe             ",5,40,4,8,1.5,400,0,1,#FALSE#,420,94
+"Copper Great Axe              ",5,35.29412,4,8,1.7,500,0,1,#TRUE#,373,76
+"Zephyrium Copper Hand Axe     ",5,33.33333,3,7,1.5,200,0,1,#FALSE#,353,69
+"Zephyrium Copper Heavy Axe    ",5,36.66667,4,7,1.5,300,0,1,#FALSE#,387,81
+"Zephyrium Copper Battle Axe   ",5,40,4,8,1.5,400,0,1,#FALSE#,420,94
+"Zephyrium Copper Great Axe    ",5,35.29412,4,8,1.7,500,0,1,#TRUE#,373,76
+"Silver Hand Axe               ",5,46.66667,5,9,1.5,200,0,1,#FALSE#,487,119
+"Silver Heavy Axe              ",5,50,6,9,1.5,300,0,1,#FALSE#,520,131
+"Silver Battle Axe             ",5,53.33333,6,10,1.5,400,0,1,#FALSE#,553,144
+"Silver Great Axe              ",5,47.05882,6,10,1.7,500,0,1,#TRUE#,491,120
+"Zephyrium Silver Hand Axe     ",5,46.66667,5,9,1.5,200,0,1,#FALSE#,487,119
+"Zephyrium Silver Heavy Axe    ",5,50,6,9,1.5,300,0,1,#FALSE#,520,131
+"Zephyrium Silver Battle Axe   ",5,53.33333,6,10,1.5,400,0,1,#FALSE#,553,144
+"Zephyrium Silver Great Axe    ",5,47.05882,6,10,1.7,500,0,1,#TRUE#,491,120
+"Iron Hand Axe                 ",5,60,7,11,1.5,200,0,1,#FALSE#,620,169
+"Iron Heavy Axe                ",5,63.33333,8,11,1.5,300,0,1,#FALSE#,653,181
+"Iron Battle Axe               ",5,66.66666,8,12,1.5,400,0,1,#FALSE#,687,194
+"Iron Great Axe                ",5,58.82353,8,12,1.7,500,0,1,#TRUE#,608,164
+"Zephyrium Iron Hand Axe       ",5,60,7,11,1.5,200,0,1,#FALSE#,620,169
+"Zephyrium Iron Heavy Axe      ",5,63.33333,8,11,1.5,300,0,1,#FALSE#,653,181
+"Zephyrium Iron Battle Axe     ",5,66.66666,8,12,1.5,400,0,1,#FALSE#,687,194
+"Zephyrium Iron Great Axe      ",5,58.82353,8,12,1.7,500,0,1,#TRUE#,608,164
+"Steel Hand Axe                ",5,73.33334,9,13,1.5,200,0,1,#FALSE#,753,219
+"Steel Heavy Axe               ",5,76.66666,10,13,1.5,300,0,1,#FALSE#,787,231
+"Steel Battle Axe              ",5,80,10,14,1.5,400,0,1,#FALSE#,820,244
+"Steel Great Axe               ",5,70.58823,10,14,1.7,500,0,1,#TRUE#,726,208
+"Zephyrium Steel Hand Axe      ",5,73.33334,9,13,1.5,200,0,1,#FALSE#,753,219
+"Zephyrium Steel Heavy Axe     ",5,76.66666,10,13,1.5,300,0,1,#FALSE#,787,231
+"Zephyrium Steel Battle Axe    ",5,80,10,14,1.5,400,0,1,#FALSE#,820,244
+"Zephyrium Steel Great Axe     ",5,70.58823,10,14,1.7,500,0,1,#TRUE#,726,208
+"Gold Hand Axe                 ",5,86.66666,11,15,1.5,200,0,1,#FALSE#,887,269
+"Gold Heavy Axe                ",5,90,12,15,1.5,300,0,1,#FALSE#,920,281
+"Gold Battle Axe               ",5,93.33334,12,16,1.5,400,0,1,#FALSE#,953,294
+"Gold Great Axe                ",5,82.35294,12,16,1.7,500,0,1,#TRUE#,844,253
+"Zephyrium Gold Hand Axe       ",5,86.66666,11,15,1.5,200,0,1,#FALSE#,887,269
+"Zephyrium Gold Heavy Axe      ",5,90,12,15,1.5,300,0,1,#FALSE#,920,281
+"Zephyrium Gold Battle Axe     ",5,93.33334,12,16,1.5,400,0,1,#FALSE#,953,294
+"Zephyrium Gold Great Axe      ",5,82.35294,12,16,1.7,500,0,1,#TRUE#,844,253
+"Zircon Hand Axe               ",5,100,13,17,1.5,200,0,1,#FALSE#,1020,319
+"Zircon Heavy Axe              ",5,103.3333,14,17,1.5,300,0,1,#FALSE#,1053,331
+"Zircon Battle Axe             ",5,106.6667,14,18,1.5,400,0,1,#FALSE#,1087,344
+"Zircon Great Axe              ",5,94.11765,14,18,1.7,500,0,1,#TRUE#,961,297
+"Zephyrium Zircon Hand Axe     ",5,100,13,17,1.5,200,0,1,#FALSE#,1020,319
+"Zephyrium Zircon Heavy Axe    ",5,103.3333,14,17,1.5,300,0,1,#FALSE#,1053,331
+"Zephyrium Zircon Battle Axe   ",5,106.6667,14,18,1.5,400,0,1,#FALSE#,1087,344
+"Zephyrium Zircon Great Axe    ",5,94.11765,14,18,1.7,500,0,1,#TRUE#,961,297
+"Titanium Hand Axe             ",5,113.3333,15,19,1.5,200,0,1,#FALSE#,1153,369
+"Titanium Heavy Axe            ",5,116.6667,16,19,1.5,300,0,1,#FALSE#,1187,381
+"Titanium Battle Axe           ",5,120,16,20,1.5,400,0,1,#FALSE#,1220,394
+"Titanium Great Axe            ",5,105.8823,16,20,1.7,500,0,1,#TRUE#,1079,341
+"Zephyrium Titanium Hand Axe   ",5,113.3333,15,19,1.5,200,0,1,#FALSE#,1153,369
+"Zephyrium Titanium Heavy Axe  ",5,116.6667,16,19,1.5,300,0,1,#FALSE#,1187,381
+"Zephyrium Titanium Battle Axe ",5,120,16,20,1.5,400,0,1,#FALSE#,1220,394
+"Zephyrium Titanium Great Axe  ",5,105.8823,16,20,1.7,500,0,1,#TRUE#,1079,341
+"Hessite Hand Axe              ",5,126.6667,17,21,1.5,200,0,1,#FALSE#,1287,419
+"Hessite Heavy Axe             ",5,130,18,21,1.5,300,0,1,#FALSE#,1320,431
+"Hessite Battle Axe            ",5,133.3333,18,22,1.5,400,0,1,#FALSE#,1353,444
+"Hessite Great Axe             ",5,117.6471,18,22,1.7,500,0,1,#TRUE#,1196,385
+"Zephyrium Hessite Hand Axe    ",5,126.6667,17,21,1.5,200,0,1,#FALSE#,1287,419
+"Zephyrium Hessite Heavy Axe   ",5,130,18,21,1.5,300,0,1,#FALSE#,1320,431
+"Zephyrium Hessite Battle Axe  ",5,133.3333,18,22,1.5,400,0,1,#FALSE#,1353,444
+"Zephyrium Hessite Great Axe   ",5,117.6471,18,22,1.7,500,0,1,#TRUE#,1196,385
+"Tungsten Hand Axe             ",5,140,19,23,1.5,200,0,1,#FALSE#,1420,469
+"Tungsten Heavy Axe            ",5,143.3333,20,23,1.5,300,0,1,#FALSE#,1453,481
+"Tungsten Battle Axe           ",5,146.6667,20,24,1.5,400,0,1,#FALSE#,1487,494
+"Tungsten Great Axe            ",5,129.4118,20,24,1.7,500,0,1,#TRUE#,1314,429
+"Zephyrium Tungsten Hand Axe   ",5,140,19,23,1.5,200,0,1,#FALSE#,1420,469
+"Zephyrium Tungsten Heavy Axe  ",5,143.3333,20,23,1.5,300,0,1,#FALSE#,1453,481
+"Zephyrium Tungsten Battle Axe ",5,146.6667,20,24,1.5,400,0,1,#FALSE#,1487,494
+"Zephyrium Tungsten Great Axe  ",5,129.4118,20,24,1.7,500,0,1,#TRUE#,1314,429
+"Damon Hand Axe                ",5,153.3333,21,25,1.5,200,0,1,#FALSE#,1553,519
+"Damon Heavy Axe               ",5,156.6667,22,25,1.5,300,0,1,#FALSE#,1587,531
+"Damon Battle Axe              ",5,160,22,26,1.5,400,0,1,#FALSE#,1620,544
+"Damon Great Axe               ",5,141.1765,22,26,1.7,500,0,1,#TRUE#,1432,473
+"Zephyrium Damon Hand Axe      ",5,153.3333,21,25,1.5,200,0,1,#FALSE#,1553,519
+"Zephyrium Damon Heavy Axe     ",5,156.6667,22,25,1.5,300,0,1,#FALSE#,1587,531
+"Zephyrium Damon Battle Axe    ",5,160,22,26,1.5,400,0,1,#FALSE#,1620,544
+"Zephyrium Damon Great Axe     ",5,141.1765,22,26,1.7,500,0,1,#TRUE#,1432,473
+"Artifact Axe                  ",5,0,0,0,1.5,500,0,1,#FALSE#,20,100
+"Practice Mace                 ",6,20,2,4,1.5,200,0,1,#FALSE#,1,1
+"Copper Mace                   ",6,33.33333,3,7,1.5,200,0,1,#FALSE#,353,69
+"Copper Heavy Mace             ",6,36.66667,4,7,1.5,300,0,1,#FALSE#,387,81
+"Copper Battle Mace            ",6,40,4,8,1.5,400,0,1,#FALSE#,420,94
+"Copper Great Mace             ",6,35.29412,4,8,1.7,500,0,1,#TRUE#,373,76
+"Zephyrium Copper Mace         ",6,33.33333,3,7,1.5,200,0,1,#FALSE#,353,69
+"Zephyrium Copper Heavy Mace   ",6,36.66667,4,7,1.5,300,0,1,#FALSE#,387,81
+"Zephyrium Copper Battle Mace  ",6,40,4,8,1.5,400,0,1,#FALSE#,420,94
+"Zephyrium Copper Great Mace   ",6,35.29412,4,8,1.7,500,0,1,#TRUE#,373,76
+"Silver Mace                   ",6,46.66667,5,9,1.5,200,0,1,#FALSE#,487,119
+"Silver Heavy Mace             ",6,50,6,9,1.5,300,0,1,#FALSE#,520,131
+"Silver Battle Mace            ",6,53.33333,6,10,1.5,400,0,1,#FALSE#,553,144
+"Silver Great Mace             ",6,47.05882,6,10,1.7,500,0,1,#TRUE#,491,120
+"Zephyrium Silver Mace         ",6,46.66667,5,9,1.5,200,0,1,#FALSE#,487,119
+"Zephyrium Silver Heavy Mace   ",6,50,6,9,1.5,300,0,1,#FALSE#,520,131
+"Zephyrium Silver Battle Mace  ",6,53.33333,6,10,1.5,400,0,1,#FALSE#,553,144
+"Zephyrium Silver Great Mace   ",6,47.05882,6,10,1.7,500,0,1,#TRUE#,491,120
+"Iron Mace                     ",6,60,7,11,1.5,200,0,1,#FALSE#,620,169
+"Iron Heavy Mace               ",6,63.33333,8,11,1.5,300,0,1,#FALSE#,653,181
+"Iron Battle Mace              ",6,66.66666,8,12,1.5,400,0,1,#FALSE#,687,194
+"Iron Great Mace               ",6,58.82353,8,12,1.7,500,0,1,#TRUE#,608,164
+"Zephyrium Iron Mace           ",6,60,7,11,1.5,200,0,1,#FALSE#,620,169
+"Zephyrium Iron Heavy Mace     ",6,63.33333,8,11,1.5,300,0,1,#FALSE#,653,181
+"Zephyrium Iron Battle Mace    ",6,66.66666,8,12,1.5,400,0,1,#FALSE#,687,194
+"Zephyrium Iron Great Mace     ",6,58.82353,8,12,1.7,500,0,1,#TRUE#,608,164
+"Steel Mace                    ",6,73.33334,9,13,1.5,200,0,1,#FALSE#,753,219
+"Steel Heavy Mace              ",6,76.66666,10,13,1.5,300,0,1,#FALSE#,787,231
+"Steel Battle Mace             ",6,80,10,14,1.5,400,0,1,#FALSE#,820,244
+"Steel Great Mace              ",6,70.58823,10,14,1.7,500,0,1,#TRUE#,726,208
+"Zephyrium Steel Mace          ",6,73.33334,9,13,1.5,200,0,1,#FALSE#,753,219
+"Zephyrium Steel Heavy Mace    ",6,76.66666,10,13,1.5,300,0,1,#FALSE#,787,231
+"Zephyrium Steel Battle Mace   ",6,80,10,14,1.5,400,0,1,#FALSE#,820,244
+"Zephyrium Steel Great Mace    ",6,70.58823,10,14,1.7,500,0,1,#TRUE#,726,208
+"Gold Mace                     ",6,86.66666,11,15,1.5,200,0,1,#FALSE#,887,269
+"Gold Heavy Mace               ",6,90,12,15,1.5,300,0,1,#FALSE#,920,281
+"Gold Battle Mace              ",6,93.33334,12,16,1.5,400,0,1,#FALSE#,953,294
+"Gold Great Mace               ",6,82.35294,12,16,1.7,500,0,1,#TRUE#,844,253
+"Zephyrium Gold Mace           ",6,86.66666,11,15,1.5,200,0,1,#FALSE#,887,269
+"Zephyrium Gold Heavy Mace     ",6,90,12,15,1.5,300,0,1,#FALSE#,920,281
+"Zephyrium Gold Battle Mace    ",6,93.33334,12,16,1.5,400,0,1,#FALSE#,953,294
+"Zephyrium Gold Great Mace     ",6,82.35294,12,16,1.7,500,0,1,#TRUE#,844,253
+"Zircon Mace                   ",6,100,13,17,1.5,200,0,1,#FALSE#,1020,319
+"Zircon Heavy Mace             ",6,103.3333,14,17,1.5,300,0,1,#FALSE#,1053,331
+"Zircon Battle Mace            ",6,106.6667,14,18,1.5,400,0,1,#FALSE#,1087,344
+"Zircon Great Mace             ",6,94.11765,14,18,1.7,500,0,1,#TRUE#,961,297
+"Zephyrium Zircon Mace         ",6,100,13,17,1.5,200,0,1,#FALSE#,1020,319
+"Zephyrium Zircon Heavy Mace   ",6,103.3333,14,17,1.5,300,0,1,#FALSE#,1053,331
+"Zephyrium Zircon Battle Mace  ",6,106.6667,14,18,1.5,400,0,1,#FALSE#,1087,344
+"Zephyrium Zircon Great Mace   ",6,94.11765,14,18,1.7,500,0,1,#TRUE#,961,297
+"Titanium Mace                 ",6,113.3333,15,19,1.5,200,0,1,#FALSE#,1153,369
+"Titanium Heavy Mace           ",6,116.6667,16,19,1.5,300,0,1,#FALSE#,1187,381
+"Titanium Battle Mace          ",6,120,16,20,1.5,400,0,1,#FALSE#,1220,394
+"Titanium Great Mace           ",6,105.8823,16,20,1.7,500,0,1,#TRUE#,1079,341
+"Zephyrium Titanium Mace       ",6,113.3333,15,19,1.5,200,0,1,#FALSE#,1153,369
+"Zephyrium Titanium Heavy Mace ",6,116.6667,16,19,1.5,300,0,1,#FALSE#,1187,381
+"Zephyrium Titanium Battle Mace",6,120,16,20,1.5,400,0,1,#FALSE#,1220,394
+"Zephyrium Titanium Great Mace ",6,105.8823,16,20,1.7,500,0,1,#TRUE#,1079,341
+"Hessite Mace                  ",6,126.6667,17,21,1.5,200,0,1,#FALSE#,1287,419
+"Hessite Heavy Mace            ",6,130,18,21,1.5,300,0,1,#FALSE#,1320,431
+"Hessite Battle Mace           ",6,133.3333,18,22,1.5,400,0,1,#FALSE#,1353,444
+"Hessite Great Mace            ",6,117.6471,18,22,1.7,500,0,1,#TRUE#,1196,385
+"Zephyrium Hessite Mace        ",6,126.6667,17,21,1.5,200,0,1,#FALSE#,1287,419
+"Zephyrium Hessite Heavy Mace  ",6,130,18,21,1.5,300,0,1,#FALSE#,1320,431
+"Zephyrium Hessite Battle Mace ",6,133.3333,18,22,1.5,400,0,1,#FALSE#,1353,444
+"Zephyrium Hessite Great Mace  ",6,117.6471,18,22,1.7,500,0,1,#TRUE#,1196,385
+"Tungsten Mace                 ",6,140,19,23,1.5,200,0,1,#FALSE#,1420,469
+"Tungsten Heavy Mace           ",6,143.3333,20,23,1.5,300,0,1,#FALSE#,1453,481
+"Tungsten Battle Mace          ",6,146.6667,20,24,1.5,400,0,1,#FALSE#,1487,494
+"Tungsten Great Mace           ",6,129.4118,20,24,1.7,500,0,1,#TRUE#,1314,429
+"Zephyrium Tungsten Mace       ",6,140,19,23,1.5,200,0,1,#FALSE#,1420,469
+"Zephyrium Tungsten Heavy Mace ",6,143.3333,20,23,1.5,300,0,1,#FALSE#,1453,481
+"Zephyrium Tungsten Battle Mace",6,146.6667,20,24,1.5,400,0,1,#FALSE#,1487,494
+"Zephyrium Tungsten Great Mace ",6,129.4118,20,24,1.7,500,0,1,#TRUE#,1314,429
+"Damon Mace                    ",6,153.3333,21,25,1.5,200,0,1,#FALSE#,1553,519
+"Damon Heavy Mace              ",6,156.6667,22,25,1.5,300,0,1,#FALSE#,1587,531
+"Damon Battle Mace             ",6,160,22,26,1.5,400,0,1,#FALSE#,1620,544
+"Damon Great Mace              ",6,141.1765,22,26,1.7,500,0,1,#TRUE#,1432,473
+"Zephyrium Damon Mace          ",6,153.3333,21,25,1.5,200,0,1,#FALSE#,1553,519
+"Zephyrium Damon Heavy Mace    ",6,156.6667,22,25,1.5,300,0,1,#FALSE#,1587,531
+"Zephyrium Damon Battle Mace   ",6,160,22,26,1.5,400,0,1,#FALSE#,1620,544
+"Zephyrium Damon Great Mace    ",6,141.1765,22,26,1.7,500,0,1,#TRUE#,1432,473
+"Artifact Mace                 ",6,0,0,0,1.5,500,0,1,#FALSE#,20,100
+"Giant Club                    ",6,133.3333,30,50,3,3000,0,1,#TRUE#,1353,444
+"Practice Scythe               ",10,30,5,7,2,400,0,1,#TRUE#,1,1
+"Copper Short Scythe           ",10,42.5,7,10,2,400,0,1,#TRUE#,445,103
+"Copper Scythe                 ",10,45,8,10,2,500,0,1,#TRUE#,470,112
+"Copper Long Scythe            ",10,47.5,8,11,2,600,0,1,#TRUE#,495,122
+"Copper Great Scythe           ",10,41.30435,8,11,2.3,700,0,2,#TRUE#,453,99
+"Zephyrium Copper Short Scythe ",10,42.5,7,10,2,400,0,1,#TRUE#,445,103
+"Zephyrium Copper Scythe       ",10,45,8,10,2,500,0,1,#TRUE#,470,112
+"Zephyrium Copper Long Scythe  ",10,47.5,8,11,2,600,0,1,#TRUE#,495,122
+"Zephyrium Copper Great Scythe ",10,41.30435,8,11,2.3,700,0,2,#TRUE#,453,99
+"Silver Short Scythe           ",10,52.5,9,12,2,400,0,1,#TRUE#,545,141
+"Silver Scythe                 ",10,55,10,12,2,500,0,1,#TRUE#,570,150
+"Silver Long Scythe            ",10,57.5,10,13,2,600,0,1,#TRUE#,595,159
+"Silver Great Scythe           ",10,50,10,13,2.3,700,0,2,#TRUE#,540,131
+"Zephyrium Silver Short Scythe ",10,52.5,9,12,2,400,0,1,#TRUE#,545,141
+"Zephyrium Silver Scythe       ",10,55,10,12,2,500,0,1,#TRUE#,570,150
+"Zephyrium Silver Long Scythe  ",10,57.5,10,13,2,600,0,1,#TRUE#,595,159
+"Zephyrium Silver Great Scythe ",10,50,10,13,2.3,700,0,2,#TRUE#,540,131
+"Iron Short Scythe             ",10,62.5,11,14,2,400,0,1,#TRUE#,645,178
+"Iron Scythe                   ",10,65,12,14,2,500,0,1,#TRUE#,670,188
+"Iron Long Scythe              ",10,67.5,12,15,2,600,0,1,#TRUE#,695,197
+"Iron Great Scythe             ",10,58.69565,12,15,2.3,700,0,2,#TRUE#,627,164
+"Zephyrium Iron Short Scythe   ",10,62.5,11,14,2,400,0,1,#TRUE#,645,178
+"Zephyrium Iron Scythe         ",10,65,12,14,2,500,0,1,#TRUE#,670,188
+"Zephyrium Iron Long Scythe    ",10,67.5,12,15,2,600,0,1,#TRUE#,695,197
+"Zephyrium Iron Great Scythe   ",10,58.69565,12,15,2.3,700,0,2,#TRUE#,627,164
+"Steel Short Scythe            ",10,72.5,13,16,2,400,0,1,#TRUE#,745,216
+"Steel Scythe                  ",10,75,14,16,2,500,0,1,#TRUE#,770,225
+"Steel Long Scythe             ",10,77.5,14,17,2,600,0,1,#TRUE#,795,234
+"Steel Great Scythe            ",10,67.3913,14,17,2.3,700,0,2,#TRUE#,714,196
+"Zephyrium Steel Short Scythe  ",10,72.5,13,16,2,400,0,1,#TRUE#,745,216
+"Zephyrium Steel Scythe        ",10,75,14,16,2,500,0,1,#TRUE#,770,225
+"Zephyrium Steel Long Scythe   ",10,77.5,14,17,2,600,0,1,#TRUE#,795,234
+"Zephyrium Steel Great Scythe  ",10,67.3913,14,17,2.3,700,0,2,#TRUE#,714,196
+"Gold Short Scythe             ",10,82.5,15,18,2,400,0,1,#TRUE#,845,253
+"Gold Scythe                   ",10,85,16,18,2,500,0,1,#TRUE#,870,262
+"Gold Long Scythe              ",10,87.5,16,19,2,600,0,1,#TRUE#,895,272
+"Gold Great Scythe             ",10,76.08696,16,19,2.3,700,0,2,#TRUE#,801,229
+"Zephyrium Gold Short Scythe   ",10,82.5,15,18,2,400,0,1,#TRUE#,845,253
+"Zephyrium Gold Scythe         ",10,85,16,18,2,500,0,1,#TRUE#,870,262
+"Zephyrium Gold Long Scythe    ",10,87.5,16,19,2,600,0,1,#TRUE#,895,272
+"Zephyrium Gold Great Scythe   ",10,76.08696,16,19,2.3,700,0,2,#TRUE#,801,229
+"Zircon Short Scythe           ",10,92.5,17,20,2,400,0,1,#TRUE#,945,291
+"Zircon Scythe                 ",10,95,18,20,2,500,0,1,#TRUE#,970,300
+"Zircon Long Scythe            ",10,97.5,18,21,2,600,0,1,#TRUE#,995,309
+"Zircon Great Scythe           ",10,84.78261,18,21,2.3,700,0,2,#TRUE#,888,262
+"Zephyrium Zircon Short Scythe ",10,92.5,17,20,2,400,0,1,#TRUE#,945,291
+"Zephyrium Zircon Scythe       ",10,95,18,20,2,500,0,1,#TRUE#,970,300
+"Zephyrium Zircon Long Scythe  ",10,97.5,18,21,2,600,0,1,#TRUE#,995,309
+"Zephyrium Zircon Great Scythe ",10,84.78261,18,21,2.3,700,0,2,#TRUE#,888,262
+"Titanium Short Scythe         ",10,102.5,19,22,2,400,0,1,#TRUE#,1045,328
+"Titanium Scythe               ",10,105,20,22,2,500,0,1,#TRUE#,1070,338
+"Titanium Long Scythe          ",10,107.5,20,23,2,600,0,1,#TRUE#,1095,347
+"Titanium Great Scythe         ",10,93.47826,20,23,2.3,700,0,2,#TRUE#,975,294
+"Zephyrium Titanium Short Scyth",10,102.5,19,22,2,400,0,1,#TRUE#,1045,328
+"Zephyrium Titanium Scythe     ",10,105,20,22,2,500,0,1,#TRUE#,1070,338
+"Zephyrium Titanium Long Scythe",10,107.5,20,23,2,600,0,1,#TRUE#,1095,347
+"Zephyrium Titanium Great Scyth",10,93.47826,20,23,2.3,700,0,2,#TRUE#,975,294
+"Hessite Short Scythe          ",10,112.5,21,24,2,400,0,1,#TRUE#,1145,366
+"Hessite Scythe                ",10,115,22,24,2,500,0,1,#TRUE#,1170,375
+"Hessite Long Scythe           ",10,117.5,22,25,2,600,0,1,#TRUE#,1195,384
+"Hessite Great Scythe          ",10,102.1739,22,25,2.3,700,0,2,#TRUE#,1062,327
+"Zephyrium Hessite Short Scythe",10,112.5,21,24,2,400,0,1,#TRUE#,1145,366
+"Zephyrium Hessite Scythe      ",10,115,22,24,2,500,0,1,#TRUE#,1170,375
+"Zephyrium Hessite Long Scythe ",10,117.5,22,25,2,600,0,1,#TRUE#,1195,384
+"Zephyrium Hessite Great Scythe",10,102.1739,22,25,2.3,700,0,2,#TRUE#,1062,327
+"Tungsten Short Scythe         ",10,122.5,23,26,2,400,0,1,#TRUE#,1245,403
+"Tungsten Scythe               ",10,125,24,26,2,500,0,1,#TRUE#,1270,412
+"Tungsten Long Scythe          ",10,127.5,24,27,2,600,0,1,#TRUE#,1295,422
+"Tungsten Great Scythe         ",10,110.8696,24,27,2.3,700,0,2,#TRUE#,1149,360
+"Zephyrium Tungsten Short Scyth",10,122.5,23,26,2,400,0,1,#TRUE#,1245,403
+"Zephyrium Tungsten Scythe     ",10,125,24,26,2,500,0,1,#TRUE#,1270,412
+"Zephyrium Tungsten Long Scythe",10,127.5,24,27,2,600,0,1,#TRUE#,1295,422
+"Zephyrium Tungsten Great Scyth",10,110.8696,24,27,2.3,700,0,2,#TRUE#,1149,360
+"Damon Short Scythe            ",10,132.5,25,28,2,400,0,1,#TRUE#,1345,441
+"Damon Scythe                  ",10,135,26,28,2,500,0,1,#TRUE#,1370,450
+"Damon Long Scythe             ",10,137.5,26,29,2,600,0,1,#TRUE#,1395,459
+"Damon Great Scythe            ",10,119.5652,26,29,2.3,700,0,2,#TRUE#,1236,392
+"Zephyrium Damon Short Scythe  ",10,132.5,25,28,2,400,0,1,#TRUE#,1345,441
+"Zephyrium Damon Scythe        ",10,135,26,28,2,500,0,1,#TRUE#,1370,450
+"Zephyrium Damon Long Scythe   ",10,137.5,26,29,2,600,0,1,#TRUE#,1395,459
+"Zephyrium Damon Great Scythe  ",10,119.5652,26,29,2.3,700,0,2,#TRUE#,1236,392
+"Artifact Scythe               ",10,0,0,0,1.5,700,0,1,#TRUE#,20,100
+"Practice Spear                ",7,17.64706,2,4,1.7,200,0,2,#FALSE#,1,1
+"Copper Spear                  ",7,29.41176,3,7,1.7,200,0,2,#FALSE#,334,54
+"Copper Battle Spear           ",7,32.35294,4,7,1.7,300,0,2,#FALSE#,364,65
+"Copper Trident                ",7,35.29412,4,8,1.7,400,0,2,#FALSE#,393,76
+"Copper Battle Trident         ",7,31.57895,4,8,1.9,500,0,3,#FALSE#,376,62
+"Zephyrium Copper Spear        ",7,29.41176,3,7,1.7,200,0,2,#FALSE#,334,54
+"Zephyrium Copper Battle Spear ",7,32.35294,4,7,1.7,300,0,2,#FALSE#,364,65
+"Zephyrium Copper Trident      ",7,35.29412,4,8,1.7,400,0,2,#FALSE#,393,76
+"Zephyrium Copper Battle Triden",7,31.57895,4,8,1.9,500,0,3,#FALSE#,376,62
+"Silver Spear                  ",7,41.17647,5,9,1.7,200,0,2,#FALSE#,452,98
+"Silver Battle Spear           ",7,44.11765,6,9,1.7,300,0,2,#FALSE#,481,109
+"Silver Trident                ",7,47.05882,6,10,1.7,400,0,2,#FALSE#,511,120
+"Silver Battle Trident         ",7,42.10526,6,10,1.9,500,0,3,#FALSE#,481,102
+"Zephyrium Silver Spear        ",7,41.17647,5,9,1.7,200,0,2,#FALSE#,452,98
+"Zephyrium Silver Battle Spear ",7,44.11765,6,9,1.7,300,0,2,#FALSE#,481,109
+"Zephyrium Silver Trident      ",7,47.05882,6,10,1.7,400,0,2,#FALSE#,511,120
+"Zephyrium Silver Battle Triden",7,42.10526,6,10,1.9,500,0,3,#FALSE#,481,102
+"Iron Spear                    ",7,52.94117,7,11,1.7,200,0,2,#FALSE#,569,142
+"Iron Battle Spear             ",7,55.88235,8,11,1.7,300,0,2,#FALSE#,599,153
+"Iron Trident                  ",7,58.82353,8,12,1.7,400,0,2,#FALSE#,628,164
+"Iron Battle Trident           ",7,52.63158,8,12,1.9,500,0,3,#FALSE#,586,141
+"Zephyrium Iron Spear          ",7,52.94117,7,11,1.7,200,0,2,#FALSE#,569,142
+"Zephyrium Iron Battle Spear   ",7,55.88235,8,11,1.7,300,0,2,#FALSE#,599,153
+"Zephyrium Iron Trident        ",7,58.82353,8,12,1.7,400,0,2,#FALSE#,628,164
+"Zephyrium Iron Battle Trident ",7,52.63158,8,12,1.9,500,0,3,#FALSE#,586,141
+"Steel Spear                   ",7,64.70588,9,13,1.7,200,0,2,#FALSE#,687,186
+"Steel Battle Spear            ",7,67.64706,10,13,1.7,300,0,2,#FALSE#,716,197
+"Steel Trident                 ",7,70.58823,10,14,1.7,400,0,2,#FALSE#,746,208
+"Steel Battle Trident          ",7,63.15789,10,14,1.9,500,0,3,#FALSE#,692,181
+"Zephyrium Steel Spear         ",7,64.70588,9,13,1.7,200,0,2,#FALSE#,687,186
+"Zephyrium Steel Battle Spear  ",7,67.64706,10,13,1.7,300,0,2,#FALSE#,716,197
+"Zephyrium Steel Trident       ",7,70.58823,10,14,1.7,400,0,2,#FALSE#,746,208
+"Zephyrium Steel Battle Trident",7,63.15789,10,14,1.9,500,0,3,#FALSE#,692,181
+"Gold Spear                    ",7,76.47059,11,15,1.7,200,0,2,#FALSE#,805,231
+"Gold Battle Spear             ",7,79.41177,12,15,1.7,300,0,2,#FALSE#,834,242
+"Gold Trident                  ",7,82.35294,12,16,1.7,400,0,2,#FALSE#,864,253
+"Gold Battle Trident           ",7,73.68421,12,16,1.9,500,0,3,#FALSE#,797,220
+"Zephyrium Gold Spear          ",7,76.47059,11,15,1.7,200,0,2,#FALSE#,805,231
+"Zephyrium Gold Battle Spear   ",7,79.41177,12,15,1.7,300,0,2,#FALSE#,834,242
+"Zephyrium Gold Trident        ",7,82.35294,12,16,1.7,400,0,2,#FALSE#,864,253
+"Zephyrium Gold Battle Trident ",7,73.68421,12,16,1.9,500,0,3,#FALSE#,797,220
+"Zircon Spear                  ",7,88.23529,13,17,1.7,200,0,2,#FALSE#,922,275
+"Zircon Battle Spear           ",7,91.17647,14,17,1.7,300,0,2,#FALSE#,952,286
+"Zircon Trident                ",7,94.11765,14,18,1.7,400,0,2,#FALSE#,981,297
+"Zircon Battle Trident         ",7,84.21053,14,18,1.9,500,0,3,#FALSE#,902,260
+"Zephyrium Zircon Spear        ",7,88.23529,13,17,1.7,200,0,2,#FALSE#,922,275
+"Zephyrium Zircon Battle Spear ",7,91.17647,14,17,1.7,300,0,2,#FALSE#,952,286
+"Zephyrium Zircon Trident      ",7,94.11765,14,18,1.7,400,0,2,#FALSE#,981,297
+"Zephyrium Zircon Battle Triden",7,84.21053,14,18,1.9,500,0,3,#FALSE#,902,260
+"Titanium Spear                ",7,100,15,19,1.7,200,0,2,#FALSE#,1040,319
+"Titanium Battle Spear         ",7,102.9412,16,19,1.7,300,0,2,#FALSE#,1069,330
+"Titanium Trident              ",7,105.8823,16,20,1.7,400,0,2,#FALSE#,1099,341
+"Titanium Battle Trident       ",7,94.73685,16,20,1.9,500,0,3,#FALSE#,1007,299
+"Zephyrium Titanium Spear      ",7,100,15,19,1.7,200,0,2,#FALSE#,1040,319
+"Zephyrium Titanium Battle Spea",7,102.9412,16,19,1.7,300,0,2,#FALSE#,1069,330
+"Zephyrium Titanium Trident    ",7,105.8823,16,20,1.7,400,0,2,#FALSE#,1099,341
+"Zephyrium Titanium Battle Trid",7,94.73685,16,20,1.9,500,0,3,#FALSE#,1007,299
+"Hessite Spear                 ",7,111.7647,17,21,1.7,200,0,2,#FALSE#,1158,363
+"Hessite Battle Spear          ",7,114.7059,18,21,1.7,300,0,2,#FALSE#,1187,374
+"Hessite Trident               ",7,117.6471,18,22,1.7,400,0,2,#FALSE#,1216,385
+"Hessite Battle Trident        ",7,105.2632,18,22,1.9,500,0,3,#FALSE#,1113,338
+"Zephyrium Hessite Spear       ",7,111.7647,17,21,1.7,200,0,2,#FALSE#,1158,363
+"Zephyrium Hessite Battle Spear",7,114.7059,18,21,1.7,300,0,2,#FALSE#,1187,374
+"Zephyrium Hessite Trident     ",7,117.6471,18,22,1.7,400,0,2,#FALSE#,1216,385
+"Zephyrium Hessite Battle Tride",7,105.2632,18,22,1.9,500,0,3,#FALSE#,1113,338
+"Tungsten Spear                ",7,123.5294,19,23,1.7,200,0,2,#FALSE#,1275,407
+"Tungsten Battle Spear         ",7,126.4706,20,23,1.7,300,0,2,#FALSE#,1305,418
+"Tungsten Trident              ",7,129.4118,20,24,1.7,400,0,2,#FALSE#,1334,429
+"Tungsten Battle Trident       ",7,115.7895,20,24,1.9,500,0,3,#FALSE#,1218,378
+"Zephyrium Tungsten Spear      ",7,123.5294,19,23,1.7,200,0,2,#FALSE#,1275,407
+"Zephyrium Tungsten Battle Spea",7,126.4706,20,23,1.7,300,0,2,#FALSE#,1305,418
+"Zephyrium Tungsten Trident    ",7,129.4118,20,24,1.7,400,0,2,#FALSE#,1334,429
+"Zephyrium Tungsten Battle Trid",7,115.7895,20,24,1.9,500,0,3,#FALSE#,1218,378
+"Damon Spear                   ",7,135.2941,21,25,1.7,200,0,2,#FALSE#,1393,451
+"Damon Battle Spear            ",7,138.2353,22,25,1.7,300,0,2,#FALSE#,1422,462
+"Damon Trident                 ",7,141.1765,22,26,1.7,400,0,2,#FALSE#,1452,473
+"Damon Battle Trident          ",7,126.3158,22,26,1.9,500,0,3,#FALSE#,1323,417
+"Zephyrium Damon Spear         ",7,135.2941,21,25,1.7,200,0,2,#FALSE#,1393,451
+"Zephyrium Damon Battle Spear  ",7,138.2353,22,25,1.7,300,0,2,#FALSE#,1422,462
+"Zephyrium Damon Trident       ",7,141.1765,22,26,1.7,400,0,2,#FALSE#,1452,473
+"Zephyrium Damon Battle Trident",7,126.3158,22,26,1.9,500,0,3,#FALSE#,1323,417
+"Artifact Trident              ",7,0,0,0,1.5,500,0,3,#FALSE#,60,100
+"Practice Staff                ",8,20,2,4,1.5,200,0,1,#TRUE#,1,1
+"Copper Staff                  ",8,33.33333,3,7,1.5,200,0,1,#TRUE#,353,69
+"Copper Long Staff             ",8,36.66667,4,7,1.5,300,0,1,#TRUE#,387,81
+"Copper Battle Staff           ",8,40,4,8,1.5,400,0,1,#TRUE#,420,94
+"Copper Maul                   ",8,35.29412,4,8,1.7,600,0,1,#TRUE#,373,76
+"Zephyrium Copper Staff        ",8,33.33333,3,7,1.5,200,0,1,#TRUE#,353,69
+"Zephyrium Copper Long Staff   ",8,36.66667,4,7,1.5,300,0,1,#TRUE#,387,81
+"Zephyrium Copper Battle Staff ",8,40,4,8,1.5,400,0,1,#TRUE#,420,94
+"Zephyrium Copper Maul         ",8,35.29412,4,8,1.7,600,0,1,#TRUE#,373,76
+"Silver Staff                  ",8,46.66667,5,9,1.5,200,0,1,#TRUE#,487,119
+"Silver Long Staff             ",8,50,6,9,1.5,300,0,1,#TRUE#,520,131
+"Silver Battle Staff           ",8,53.33333,6,10,1.5,400,0,1,#TRUE#,553,144
+"Silver Maul                   ",8,47.05882,6,10,1.7,600,0,1,#TRUE#,491,120
+"Zephyrium Silver Staff        ",8,46.66667,5,9,1.5,200,0,1,#TRUE#,487,119
+"Zephyrium Silver Long Staff   ",8,50,6,9,1.5,300,0,1,#TRUE#,520,131
+"Zephyrium Silver Battle Staff ",8,53.33333,6,10,1.5,400,0,1,#TRUE#,553,144
+"Zephyrium Silver Maul         ",8,47.05882,6,10,1.7,600,0,1,#TRUE#,491,120
+"Iron Staff                    ",8,60,7,11,1.5,200,0,1,#TRUE#,620,169
+"Iron Long Staff               ",8,63.33333,8,11,1.5,300,0,1,#TRUE#,653,181
+"Iron Battle Staff             ",8,66.66666,8,12,1.5,400,0,1,#TRUE#,687,194
+"Iron Maul                     ",8,58.82353,8,12,1.7,600,0,1,#TRUE#,608,164
+"Zephyrium Iron Staff          ",8,60,7,11,1.5,200,0,1,#TRUE#,620,169
+"Zephyrium Iron Long Staff     ",8,63.33333,8,11,1.5,300,0,1,#TRUE#,653,181
+"Zephyrium Iron Battle Staff   ",8,66.66666,8,12,1.5,400,0,1,#TRUE#,687,194
+"Zephyrium Iron Maul           ",8,58.82353,8,12,1.7,600,0,1,#TRUE#,608,164
+"Steel Staff                   ",8,73.33334,9,13,1.5,200,0,1,#TRUE#,753,219
+"Steel Long Staff              ",8,76.66666,10,13,1.5,300,0,1,#TRUE#,787,231
+"Steel Battle Staff            ",8,80,10,14,1.5,400,0,1,#TRUE#,820,244
+"Steel Maul                    ",8,70.58823,10,14,1.7,600,0,1,#TRUE#,726,208
+"Zephyrium Steel Staff         ",8,73.33334,9,13,1.5,200,0,1,#TRUE#,753,219
+"Zephyrium Steel Long Staff    ",8,76.66666,10,13,1.5,300,0,1,#TRUE#,787,231
+"Zephyrium Steel Battle Staff  ",8,80,10,14,1.5,400,0,1,#TRUE#,820,244
+"Zephyrium Steel Maul          ",8,70.58823,10,14,1.7,600,0,1,#TRUE#,726,208
+"Gold Staff                    ",8,86.66666,11,15,1.5,200,0,1,#TRUE#,887,269
+"Gold Long Staff               ",8,90,12,15,1.5,300,0,1,#TRUE#,920,281
+"Gold Battle Staff             ",8,93.33334,12,16,1.5,400,0,1,#TRUE#,953,294
+"Gold Maul                     ",8,82.35294,12,16,1.7,600,0,1,#TRUE#,844,253
+"Zephyrium Gold Staff          ",8,86.66666,11,15,1.5,200,0,1,#TRUE#,887,269
+"Zephyrium Gold Long Staff     ",8,90,12,15,1.5,300,0,1,#TRUE#,920,281
+"Zephyrium Gold Battle Staff   ",8,93.33334,12,16,1.5,400,0,1,#TRUE#,953,294
+"Zephyrium Gold Maul           ",8,82.35294,12,16,1.7,600,0,1,#TRUE#,844,253
+"Zircon Staff                  ",8,100,13,17,1.5,200,0,1,#TRUE#,1020,319
+"Zircon Long Staff             ",8,103.3333,14,17,1.5,300,0,1,#TRUE#,1053,331
+"Zircon Battle Staff           ",8,106.6667,14,18,1.5,400,0,1,#TRUE#,1087,344
+"Zircon Maul                   ",8,94.11765,14,18,1.7,600,0,1,#TRUE#,961,297
+"Zephyrium Zircon Staff        ",8,100,13,17,1.5,200,0,1,#TRUE#,1020,319
+"Zephyrium Zircon Long Staff   ",8,103.3333,14,17,1.5,300,0,1,#TRUE#,1053,331
+"Zephyrium Zircon Battle Staff ",8,106.6667,14,18,1.5,400,0,1,#TRUE#,1087,344
+"Zephyrium Zircon Maul         ",8,94.11765,14,18,1.7,600,0,1,#TRUE#,961,297
+"Titanium Staff                ",8,113.3333,15,19,1.5,200,0,1,#TRUE#,1153,369
+"Titanium Long Staff           ",8,116.6667,16,19,1.5,300,0,1,#TRUE#,1187,381
+"Titanium Battle Staff         ",8,120,16,20,1.5,400,0,1,#TRUE#,1220,394
+"Titanium Maul                 ",8,105.8823,16,20,1.7,600,0,1,#TRUE#,1079,341
+"Zephyrium Titanium Staff      ",8,113.3333,15,19,1.5,200,0,1,#TRUE#,1153,369
+"Zephyrium Titanium Long Staff ",8,116.6667,16,19,1.5,300,0,1,#TRUE#,1187,381
+"Zephyrium Titanium Battle Staf",8,120,16,20,1.5,400,0,1,#TRUE#,1220,394
+"Zephyrium Titanium Maul       ",8,105.8823,16,20,1.7,600,0,1,#TRUE#,1079,341
+"Hessite Staff                 ",8,126.6667,17,21,1.5,200,0,1,#TRUE#,1287,419
+"Hessite Long Staff            ",8,130,18,21,1.5,300,0,1,#TRUE#,1320,431
+"Hessite Battle Staff          ",8,133.3333,18,22,1.5,400,0,1,#TRUE#,1353,444
+"Hessite Maul                  ",8,117.6471,18,22,1.7,600,0,1,#TRUE#,1196,385
+"Zephyrium Hessite Staff       ",8,126.6667,17,21,1.5,200,0,1,#TRUE#,1287,419
+"Zephyrium Hessite Long Staff  ",8,130,18,21,1.5,300,0,1,#TRUE#,1320,431
+"Zephyrium Hessite Battle Staff",8,133.3333,18,22,1.5,400,0,1,#TRUE#,1353,444
+"Zephyrium Hessite Maul        ",8,117.6471,18,22,1.7,600,0,1,#TRUE#,1196,385
+"Tungsten Staff                ",8,140,19,23,1.5,200,0,1,#TRUE#,1420,469
+"Tungsten Long Staff           ",8,143.3333,20,23,1.5,300,0,1,#TRUE#,1453,481
+"Tungsten Battle Staff         ",8,146.6667,20,24,1.5,400,0,1,#TRUE#,1487,494
+"Tungsten Maul                 ",8,129.4118,20,24,1.7,600,0,1,#TRUE#,1314,429
+"Zephyrium Tungsten Staff      ",8,140,19,23,1.5,200,0,1,#TRUE#,1420,469
+"Zephyrium Tungsten Long Staff ",8,143.3333,20,23,1.5,300,0,1,#TRUE#,1453,481
+"Zephyrium Tungsten Battle Staf",8,146.6667,20,24,1.5,400,0,1,#TRUE#,1487,494
+"Zephyrium Tungsten Maul       ",8,129.4118,20,24,1.7,600,0,1,#TRUE#,1314,429
+"Damon Staff                   ",8,153.3333,21,25,1.5,200,0,1,#TRUE#,1553,519
+"Damon Long Staff              ",8,156.6667,22,25,1.5,300,0,1,#TRUE#,1587,531
+"Damon Battle Staff            ",8,160,22,26,1.5,400,0,1,#TRUE#,1620,544
+"Damon Maul                    ",8,141.1765,22,26,1.7,600,0,1,#TRUE#,1432,473
+"Zephyrium Damon Staff         ",8,153.3333,21,25,1.5,200,0,1,#TRUE#,1553,519
+"Zephyrium Damon Long Staff    ",8,156.6667,22,25,1.5,300,0,1,#TRUE#,1587,531
+"Zephyrium Damon Battle Staff  ",8,160,22,26,1.5,400,0,1,#TRUE#,1620,544
+"Zephyrium Damon Maul          ",8,141.1765,22,26,1.7,600,0,1,#TRUE#,1432,473
+"Artifact Staff                ",8,0,0,0,1.5,500,0,1,#FALSE#,20,100
+"Practice Flail                ",9,20,2,4,1.5,200,0,1,#FALSE#,1,1
+"Copper Flail                  ",9,33.33333,3,7,1.5,200,0,1,#FALSE#,353,69
+"Copper Heavy Flail            ",9,36.66667,4,7,1.5,300,0,1,#FALSE#,387,81
+"Copper Battle Flail           ",9,40,4,8,1.5,400,0,1,#FALSE#,420,94
+"Copper Great Flail            ",9,35.29412,4,8,1.7,500,0,2,#TRUE#,393,76
+"Zephyrium Copper Flail        ",9,33.33333,3,7,1.5,200,0,1,#FALSE#,353,69
+"Zephyrium Copper Heavy Flail  ",9,36.66667,4,7,1.5,300,0,1,#FALSE#,387,81
+"Zephyrium Copper Battle Flail ",9,40,4,8,1.5,400,0,1,#FALSE#,420,94
+"Zephyrium Copper Great Flail  ",9,35.29412,4,8,1.7,500,0,2,#TRUE#,393,76
+"Silver Flail                  ",9,46.66667,5,9,1.5,200,0,1,#FALSE#,487,119
+"Silver Heavy Flail            ",9,50,6,9,1.5,300,0,1,#FALSE#,520,131
+"Silver Battle Flail           ",9,53.33333,6,10,1.5,400,0,1,#FALSE#,553,144
+"Silver Great Flail            ",9,47.05882,6,10,1.7,500,0,2,#TRUE#,511,120
+"Zephyrium Silver Flail        ",9,46.66667,5,9,1.5,200,0,1,#FALSE#,487,119
+"Zephyrium Silver Heavy Flail  ",9,50,6,9,1.5,300,0,1,#FALSE#,520,131
+"Zephyrium Silver Battle Flail ",9,53.33333,6,10,1.5,400,0,1,#FALSE#,553,144
+"Zephyrium Silver Great Flail  ",9,47.05882,6,10,1.7,500,0,2,#TRUE#,511,120
+"Iron Flail                    ",9,60,7,11,1.5,200,0,1,#FALSE#,620,169
+"Iron Heavy Flail              ",9,63.33333,8,11,1.5,300,0,1,#FALSE#,653,181
+"Iron Battle Flail             ",9,66.66666,8,12,1.5,400,0,1,#FALSE#,687,194
+"Iron Great Flail              ",9,58.82353,8,12,1.7,500,0,2,#TRUE#,628,164
+"Zephyrium Iron Flail          ",9,60,7,11,1.5,200,0,1,#FALSE#,620,169
+"Zephyrium Iron Heavy Flail    ",9,63.33333,8,11,1.5,300,0,1,#FALSE#,653,181
+"Zephyrium Iron Battle Flail   ",9,66.66666,8,12,1.5,400,0,1,#FALSE#,687,194
+"Zephyrium Iron Great Flail    ",9,58.82353,8,12,1.7,500,0,2,#TRUE#,628,164
+"Steel Flail                   ",9,73.33334,9,13,1.5,200,0,1,#FALSE#,753,219
+"Steel Heavy Flail             ",9,76.66666,10,13,1.5,300,0,1,#FALSE#,787,231
+"Steel Battle Flail            ",9,80,10,14,1.5,400,0,1,#FALSE#,820,244
+"Steel Great Flail             ",9,70.58823,10,14,1.7,500,0,2,#TRUE#,746,208
+"Zephyrium Steel Flail         ",9,73.33334,9,13,1.5,200,0,1,#FALSE#,753,219
+"Zephyrium Steel Heavy Flail   ",9,76.66666,10,13,1.5,300,0,1,#FALSE#,787,231
+"Zephyrium Steel Battle Flail  ",9,80,10,14,1.5,400,0,1,#FALSE#,820,244
+"Zephyrium Steel Great Flail   ",9,70.58823,10,14,1.7,500,0,2,#TRUE#,746,208
+"Gold Flail                    ",9,86.66666,11,15,1.5,200,0,1,#FALSE#,887,269
+"Gold Heavy Flail              ",9,90,12,15,1.5,300,0,1,#FALSE#,920,281
+"Gold Battle Flail             ",9,93.33334,12,16,1.5,400,0,1,#FALSE#,953,294
+"Gold Great Flail              ",9,82.35294,12,16,1.7,500,0,2,#TRUE#,864,253
+"Zephyrium Gold Flail          ",9,86.66666,11,15,1.5,200,0,1,#FALSE#,887,269
+"Zephyrium Gold Heavy Flail    ",9,90,12,15,1.5,300,0,1,#FALSE#,920,281
+"Zephyrium Gold Battle Flail   ",9,93.33334,12,16,1.5,400,0,1,#FALSE#,953,294
+"Zephyrium Gold Great Flail    ",9,82.35294,12,16,1.7,500,0,2,#TRUE#,864,253
+"Zircon Flail                  ",9,100,13,17,1.5,200,0,1,#FALSE#,1020,319
+"Zircon Heavy Flail            ",9,103.3333,14,17,1.5,300,0,1,#FALSE#,1053,331
+"Zircon Battle Flail           ",9,106.6667,14,18,1.5,400,0,1,#FALSE#,1087,344
+"Zircon Great Flail            ",9,94.11765,14,18,1.7,500,0,2,#TRUE#,981,297
+"Zephyrium Zircon Flail        ",9,100,13,17,1.5,200,0,1,#FALSE#,1020,319
+"Zephyrium Zircon Heavy Flail  ",9,103.3333,14,17,1.5,300,0,1,#FALSE#,1053,331
+"Zephyrium Zircon Battle Flail ",9,106.6667,14,18,1.5,400,0,1,#FALSE#,1087,344
+"Zephyrium Zircon Great Flail  ",9,94.11765,14,18,1.7,500,0,2,#TRUE#,981,297
+"Titanium Flail                ",9,113.3333,15,19,1.5,200,0,1,#FALSE#,1153,369
+"Titanium Heavy Flail          ",9,116.6667,16,19,1.5,300,0,1,#FALSE#,1187,381
+"Titanium Battle Flail         ",9,120,16,20,1.5,400,0,1,#FALSE#,1220,394
+"Titanium Great Flail          ",9,105.8823,16,20,1.7,500,0,2,#TRUE#,1099,341
+"Zephyrium Titanium Flail      ",9,113.3333,15,19,1.5,200,0,1,#FALSE#,1153,369
+"Zephyrium Titanium Heavy Flail",9,116.6667,16,19,1.5,300,0,1,#FALSE#,1187,381
+"Zephyrium Titanium Battle Flai",9,120,16,20,1.5,400,0,1,#FALSE#,1220,394
+"Zephyrium Titanium Great Flail",9,105.8823,16,20,1.7,500,0,2,#TRUE#,1099,341
+"Hessite Flail                 ",9,126.6667,17,21,1.5,200,0,1,#FALSE#,1287,419
+"Hessite Heavy Flail           ",9,130,18,21,1.5,300,0,1,#FALSE#,1320,431
+"Hessite Battle Flail          ",9,133.3333,18,22,1.5,400,0,1,#FALSE#,1353,444
+"Hessite Great Flail           ",9,117.6471,18,22,1.7,500,0,2,#TRUE#,1216,385
+"Zephyrium Hessite Flail       ",9,126.6667,17,21,1.5,200,0,1,#FALSE#,1287,419
+"Zephyrium Hessite Heavy Flail ",9,130,18,21,1.5,300,0,1,#FALSE#,1320,431
+"Zephyrium Hessite Battle Flail",9,133.3333,18,22,1.5,400,0,1,#FALSE#,1353,444
+"Zephyrium Hessite Great Flail ",9,117.6471,18,22,1.7,500,0,2,#TRUE#,1216,385
+"Tungsten Flail                ",9,140,19,23,1.5,200,0,1,#FALSE#,1420,469
+"Tungsten Heavy Flail          ",9,143.3333,20,23,1.5,300,0,1,#FALSE#,1453,481
+"Tungsten Battle Flail         ",9,146.6667,20,24,1.5,400,0,1,#FALSE#,1487,494
+"Tungsten Great Flail          ",9,129.4118,20,24,1.7,500,0,2,#TRUE#,1334,429
+"Zephyrium Tungsten Flail      ",9,140,19,23,1.5,200,0,1,#FALSE#,1420,469
+"Zephyrium Tungsten Heavy Flail",9,143.3333,20,23,1.5,300,0,1,#FALSE#,1453,481
+"Zephyrium Tungsten Battle Flai",9,146.6667,20,24,1.5,400,0,1,#FALSE#,1487,494
+"Zephyrium Tungsten Great Flail",9,129.4118,20,24,1.7,500,0,2,#TRUE#,1334,429
+"Damon Flail                   ",9,153.3333,21,25,1.5,200,0,1,#FALSE#,1553,519
+"Damon Heavy Flail             ",9,156.6667,22,25,1.5,300,0,1,#FALSE#,1587,531
+"Damon Battle Flail            ",9,160,22,26,1.5,400,0,1,#FALSE#,1620,544
+"Damon Great Flail             ",9,141.1765,22,26,1.7,500,0,2,#TRUE#,1452,473
+"Zephyrium Damon Flail         ",9,153.3333,21,25,1.5,200,0,1,#FALSE#,1553,519
+"Zephyrium Damon Heavy Flail   ",9,156.6667,22,25,1.5,300,0,1,#FALSE#,1587,531
+"Zephyrium Damon Battle Flail  ",9,160,22,26,1.5,400,0,1,#FALSE#,1620,544
+"Zephyrium Damon Great Flail   ",9,141.1765,22,26,1.7,500,0,2,#TRUE#,1452,473
+"Artifact Flail                ",9,0,0,0,1.5,500,0,1,#FALSE#,20,100
+"Giant Flail                   ",9,133.3333,30,50,3,3000,0,2,#TRUE#,1373,444
+"Copper Cestus                 ",2,20,1,3,1,100,0,1,#FALSE#,220,19
+"Copper Claw                   ",2,20,1,3,1,100,0,1,#FALSE#,220,19
+"Copper Katar                  ",2,20,1,3,1,100,0,1,#FALSE#,220,19
+"Copper Heavy Cestus           ",2,25,1,4,1,150,0,1,#FALSE#,270,38
+"Copper Heavy Claw             ",2,25,1,4,1,150,0,1,#FALSE#,270,38
+"Copper Heavy Katar            ",2,25,1,4,1,150,0,1,#FALSE#,270,38
+"Silver Cestus                 ",2,35,2,5,1,100,0,1,#FALSE#,370,75
+"Silver Claw                   ",2,35,2,5,1,100,0,1,#FALSE#,370,75
+"Silver Katar                  ",2,35,2,5,1,100,0,1,#FALSE#,370,75
+"Silver Heavy Cestus           ",2,40,3,5,1,150,0,1,#FALSE#,420,94
+"Silver Heavy Claw             ",2,40,3,5,1,150,0,1,#FALSE#,420,94
+"Silver Heavy Katar            ",2,40,3,5,1,150,0,1,#FALSE#,420,94
+"Iron Cestus                   ",2,50,4,6,1,100,0,1,#FALSE#,520,131
+"Iron Claw                     ",2,50,4,6,1,100,0,1,#FALSE#,520,131
+"Iron Katar                    ",2,50,4,6,1,100,0,1,#FALSE#,520,131
+"Iron Heavy Cestus             ",2,55,4,7,1,150,0,1,#FALSE#,570,150
+"Iron Heavy Claw               ",2,55,4,7,1,150,0,1,#FALSE#,570,150
+"Iron Heavy Katar              ",2,55,4,7,1,150,0,1,#FALSE#,570,150
+"Steel Cestus                  ",2,65,5,8,1,100,0,1,#FALSE#,670,188
+"Steel Claw                    ",2,65,5,8,1,100,0,1,#FALSE#,670,188
+"Steel Katar                   ",2,65,5,8,1,100,0,1,#FALSE#,670,188
+"Steel Heavy Cestus            ",2,70,6,8,1,150,0,1,#FALSE#,720,206
+"Steel Heavy Claw              ",2,70,6,8,1,150,0,1,#FALSE#,720,206
+"Steel Heavy Katar             ",2,70,6,8,1,150,0,1,#FALSE#,720,206
+"Gold Cestus                   ",2,80,7,9,1,100,0,1,#FALSE#,820,244
+"Gold Claw                     ",2,80,7,9,1,100,0,1,#FALSE#,820,244
+"Gold Katar                    ",2,80,7,9,1,100,0,1,#FALSE#,820,244
+"Gold Heavy Cestus             ",2,85,7,10,1,150,0,1,#FALSE#,870,262
+"Gold Heavy Claw               ",2,85,7,10,1,150,0,1,#FALSE#,870,262
+"Gold Heavy Katar              ",2,85,7,10,1,150,0,1,#FALSE#,870,262
+"Zircon Cestus                 ",2,95,8,11,1,100,0,1,#FALSE#,970,300
+"Zircon Claw                   ",2,95,8,11,1,100,0,1,#FALSE#,970,300
+"Zircon Katar                  ",2,95,8,11,1,100,0,1,#FALSE#,970,300
+"Zircon Heavy Cestus           ",2,100,9,11,1,150,0,1,#FALSE#,1020,319
+"Zircon Heavy Claw             ",2,100,9,11,1,150,0,1,#FALSE#,1020,319
+"Zircon Heavy Katar            ",2,100,9,11,1,150,0,1,#FALSE#,1020,319
+"Titanium Cestus               ",2,110,10,12,1,100,0,1,#FALSE#,1120,356
+"Titanium Claw                 ",2,110,10,12,1,100,0,1,#FALSE#,1120,356
+"Titanium Katar                ",2,110,10,12,1,100,0,1,#FALSE#,1120,356
+"Titanium Heavy Cestus         ",2,115,10,13,1,150,0,1,#FALSE#,1170,375
+"Titanium Heavy Claw           ",2,115,10,13,1,150,0,1,#FALSE#,1170,375
+"Titanium Heavy Katar          ",2,115,10,13,1,150,0,1,#FALSE#,1170,375
+"Hessite Cestus                ",2,125,11,14,1,100,0,1,#FALSE#,1270,412
+"Hessite Claw                  ",2,125,11,14,1,100,0,1,#FALSE#,1270,412
+"Hessite Katar                 ",2,125,11,14,1,100,0,1,#FALSE#,1270,412
+"Hessite Heavy Cestus          ",2,130,12,14,1,150,0,1,#FALSE#,1320,431
+"Hessite Heavy Claw            ",2,130,12,14,1,150,0,1,#FALSE#,1320,431
+"Hessite Heavy Katar           ",2,130,12,14,1,150,0,1,#FALSE#,1320,431
+"Tungsten Cestus               ",2,140,13,15,1,100,0,1,#FALSE#,1420,469
+"Tungsten Claw                 ",2,140,13,15,1,100,0,1,#FALSE#,1420,469
+"Tungsten Katar                ",2,140,13,15,1,100,0,1,#FALSE#,1420,469
+"Tungsten Heavy Cestus         ",2,145,13,16,1,150,0,1,#FALSE#,1470,488
+"Tungsten Heavy Claw           ",2,145,13,16,1,150,0,1,#FALSE#,1470,488
+"Tungsten Heavy Katar          ",2,145,13,16,1,150,0,1,#FALSE#,1470,488
+"Damon Cestus                  ",2,155,14,17,1,100,0,1,#FALSE#,1570,525
+"Damon Claw                    ",2,155,14,17,1,100,0,1,#FALSE#,1570,525
+"Damon Katar                   ",2,155,14,17,1,100,0,1,#FALSE#,1570,525
+"Damon Heavy Cestus            ",2,160,15,17,1,150,0,1,#FALSE#,1620,544
+"Damon Heavy Claw              ",2,160,15,17,1,150,0,1,#FALSE#,1620,544
+"Damon Heavy Katar             ",2,160,15,17,1,150,0,1,#FALSE#,1620,544
+"Artifact Claw                 ",2,0,0,0,1.5,300,0,1,#FALSE#,20,100
+"Practice Boomerang            ",14,16.66667,3,7,3,100,0,6,#FALSE#,1,1
+"Copper Boomerang              ",14,20,4,8,3,200,0,6,#FALSE#,320,19
+"Copper Krulling               ",14,23.33333,5,9,3,300,0,6,#FALSE#,353,31
+"Copper Shrokrim               ",14,26.66667,6,10,3,400,0,6,#FALSE#,387,44
+"Zephyrium Copper Boomerang    ",14,20,4,8,3,200,0,6,#FALSE#,320,19
+"Zephyrium Copper Krulling     ",14,23.33333,5,9,3,300,0,6,#FALSE#,353,31
+"Zephyrium Copper Shrokrim     ",14,26.66667,6,10,3,400,0,6,#FALSE#,387,44
+"Silver Boomerang              ",14,30,7,11,3,200,0,6,#FALSE#,420,56
+"Silver Krulling               ",14,33.33333,8,12,3,300,0,6,#FALSE#,453,69
+"Silver Shrokrim               ",14,36.66667,9,13,3,400,0,6,#FALSE#,487,81
+"Zephyrium Silver Boomerang    ",14,30,7,11,3,200,0,6,#FALSE#,420,56
+"Zephyrium Silver Krulling     ",14,33.33333,8,12,3,300,0,6,#FALSE#,453,69
+"Zephyrium Silver Shrokrim     ",14,36.66667,9,13,3,400,0,6,#FALSE#,487,81
+"Iron Boomerang                ",14,40,10,14,3,200,0,6,#FALSE#,520,94
+"Iron Krulling                 ",14,43.33333,11,15,3,300,0,6,#FALSE#,553,106
+"Iron Shrokrim                 ",14,46.66667,12,16,3,400,0,6,#FALSE#,587,119
+"Zephyrium Iron Boomerang      ",14,40,10,14,3,200,0,6,#FALSE#,520,94
+"Zephyrium Iron Krulling       ",14,43.33333,11,15,3,300,0,6,#FALSE#,553,106
+"Zephyrium Iron Shrokrim       ",14,46.66667,12,16,3,400,0,6,#FALSE#,587,119
+"Steel Boomerang               ",14,50,13,17,3,200,0,6,#FALSE#,620,131
+"Steel Krulling                ",14,53.33333,14,18,3,300,0,6,#FALSE#,653,144
+"Steel Shrokrim                ",14,56.66667,15,19,3,400,0,6,#FALSE#,687,156
+"Zephyrium Steel Boomerang     ",14,50,13,17,3,200,0,6,#FALSE#,620,131
+"Zephyrium Steel Krulling      ",14,53.33333,14,18,3,300,0,6,#FALSE#,653,144
+"Zephyrium Steel Shrokrim      ",14,56.66667,15,19,3,400,0,6,#FALSE#,687,156
+"Gold Boomerang                ",14,60,16,20,3,200,0,6,#FALSE#,720,169
+"Gold Krulling                 ",14,63.33333,17,21,3,300,0,6,#FALSE#,753,181
+"Gold Shrokrim                 ",14,66.66666,18,22,3,400,0,6,#FALSE#,787,194
+"Zephyrium Gold Boomerang      ",14,60,16,20,3,200,0,6,#FALSE#,720,169
+"Zephyrium Gold Krulling       ",14,63.33333,17,21,3,300,0,6,#FALSE#,753,181
+"Zephyrium Gold Shrokrim       ",14,66.66666,18,22,3,400,0,6,#FALSE#,787,194
+"Zircon Boomerang              ",14,70,19,23,3,200,0,6,#FALSE#,820,206
+"Zircon Krulling               ",14,73.33334,20,24,3,300,0,6,#FALSE#,853,219
+"Zircon Shrokrim               ",14,76.66666,21,25,3,400,0,6,#FALSE#,887,231
+"Zephyrium Zircon Boomerang    ",14,70,19,23,3,200,0,6,#FALSE#,820,206
+"Zephyrium Zircon Krulling     ",14,73.33334,20,24,3,300,0,6,#FALSE#,853,219
+"Zephyrium Zircon Shrokrim     ",14,76.66666,21,25,3,400,0,6,#FALSE#,887,231
+"Titanium Boomerang            ",14,80,22,26,3,200,0,6,#FALSE#,920,244
+"Titanium Krulling             ",14,83.33334,23,27,3,300,0,6,#FALSE#,953,256
+"Titanium Shrokrim             ",14,86.66666,24,28,3,400,0,6,#FALSE#,987,269
+"Zephyrium Titanium Boomerang  ",14,80,22,26,3,200,0,6,#FALSE#,920,244
+"Zephyrium Titanium Krulling   ",14,83.33334,23,27,3,300,0,6,#FALSE#,953,256
+"Zephyrium Titanium Shrokrim   ",14,86.66666,24,28,3,400,0,6,#FALSE#,987,269
+"Hessite Boomerang             ",14,90,25,29,3,200,0,6,#FALSE#,1020,281
+"Hessite Krulling              ",14,93.33334,26,30,3,300,0,6,#FALSE#,1053,294
+"Hessite Shrokrim              ",14,96.66666,27,31,3,400,0,6,#FALSE#,1087,306
+"Zephyrium Hessite Boomerang   ",14,90,25,29,3,200,0,6,#FALSE#,1020,281
+"Zephyrium Hessite Krulling    ",14,93.33334,26,30,3,300,0,6,#FALSE#,1053,294
+"Zephyrium Hessite Shrokrim    ",14,96.66666,27,31,3,400,0,6,#FALSE#,1087,306
+"Tungsten Boomerang            ",14,100,28,32,3,200,0,6,#FALSE#,1120,319
+"Tungsten Krulling             ",14,103.3333,29,33,3,300,0,6,#FALSE#,1153,331
+"Tungsten Shrokrim             ",14,106.6667,30,34,3,400,0,6,#FALSE#,1187,344
+"Zephyrium Tungsten Boomerang  ",14,100,28,32,3,200,0,6,#FALSE#,1120,319
+"Zephyrium Tungsten Krulling   ",14,103.3333,29,33,3,300,0,6,#FALSE#,1153,331
+"Zephyrium Tungsten Shrokrim   ",14,106.6667,30,34,3,400,0,6,#FALSE#,1187,344
+"Damon Boomerang               ",14,110,31,35,3,200,0,6,#FALSE#,1220,356
+"Damon Krulling                ",14,113.3333,32,36,3,300,0,6,#FALSE#,1253,369
+"Damon Shrokrim                ",14,116.6667,33,37,3,400,0,6,#FALSE#,1287,381
+"Zephyrium Damon Boomerang     ",14,110,31,35,3,200,0,6,#FALSE#,1220,356
+"Zephyrium Damon Krulling      ",14,113.3333,32,36,3,300,0,6,#FALSE#,1253,369
+"Zephyrium Damon Shrokrim      ",14,116.6667,33,37,3,400,0,6,#FALSE#,1287,381
+"Artifact Shrokrim             ",14,0,0,0,3,300,0,6,#FALSE#,120,100
+"Catapult                      ",14,75,50,100,10,4000,0,10,#TRUE#,950,225
+"Practice Bow                  ",12,15,3,6,3,200,0,8,#TRUE#,1,1
+"Copper Short Bow              ",12,18.33333,4,7,3,300,0,8,#TRUE#,343,13
+"Copper Long Bow               ",12,21.66667,5,8,3,400,0,8,#TRUE#,377,25
+"Copper Composite Bow          ",12,25,6,9,3,500,0,8,#TRUE#,410,38
+"Zephyrium Copper Short Bow    ",12,18.33333,4,7,3,300,0,8,#TRUE#,343,13
+"Zephyrium Copper Long Bow     ",12,21.66667,5,8,3,400,0,8,#TRUE#,377,25
+"Zephyrium Copper Composite Bow",12,25,6,9,3,500,0,8,#TRUE#,410,38
+"Silver Short Bow              ",12,28.33333,7,10,3,300,0,8,#TRUE#,443,50
+"Silver Long Bow               ",12,31.66667,8,11,3,400,0,8,#TRUE#,477,62
+"Silver Composite Bow          ",12,35,9,12,3,500,0,8,#TRUE#,510,75
+"Zephyrium Silver Short Bow    ",12,28.33333,7,10,3,300,0,8,#TRUE#,443,50
+"Zephyrium Silver Long Bow     ",12,31.66667,8,11,3,400,0,8,#TRUE#,477,62
+"Zephyrium Silver Composite Bow",12,35,9,12,3,500,0,8,#TRUE#,510,75
+"Iron Short Bow                ",12,38.33333,10,13,3,300,0,8,#TRUE#,543,87
+"Iron Long Bow                 ",12,41.66667,11,14,3,400,0,8,#TRUE#,577,100
+"Iron Composite Bow            ",12,45,12,15,3,500,0,8,#TRUE#,610,112
+"Zephyrium Iron Short Bow      ",12,38.33333,10,13,3,300,0,8,#TRUE#,543,87
+"Zephyrium Iron Long Bow       ",12,41.66667,11,14,3,400,0,8,#TRUE#,577,100
+"Zephyrium Iron Composite Bow  ",12,45,12,15,3,500,0,8,#TRUE#,610,112
+"Steel Short Bow               ",12,48.33333,13,16,3,300,0,8,#TRUE#,643,125
+"Steel Long Bow                ",12,51.66667,14,17,3,400,0,8,#TRUE#,677,138
+"Steel Composite Bow           ",12,55,15,18,3,500,0,8,#TRUE#,710,150
+"Zephyrium Steel Short Bow     ",12,48.33333,13,16,3,300,0,8,#TRUE#,643,125
+"Zephyrium Steel Long Bow      ",12,51.66667,14,17,3,400,0,8,#TRUE#,677,138
+"Zephyrium Steel Composite Bow ",12,55,15,18,3,500,0,8,#TRUE#,710,150
+"Gold Short Bow                ",12,58.33333,16,19,3,300,0,8,#TRUE#,743,162
+"Gold Long Bow                 ",12,61.66667,17,20,3,400,0,8,#TRUE#,777,175
+"Gold Composite Bow            ",12,65,18,21,3,500,0,8,#TRUE#,810,188
+"Zephyrium Gold Short Bow      ",12,58.33333,16,19,3,300,0,8,#TRUE#,743,162
+"Zephyrium Gold Long Bow       ",12,61.66667,17,20,3,400,0,8,#TRUE#,777,175
+"Zephyrium Gold Composite Bow  ",12,65,18,21,3,500,0,8,#TRUE#,810,188
+"Zircon Short Bow              ",12,68.33334,19,22,3,300,0,8,#TRUE#,843,200
+"Zircon Long Bow               ",12,71.66666,20,23,3,400,0,8,#TRUE#,877,212
+"Zircon Composite Bow          ",12,75,21,24,3,500,0,8,#TRUE#,910,225
+"Zephyrium Zircon Short Bow    ",12,68.33334,19,22,3,300,0,8,#TRUE#,843,200
+"Zephyrium Zircon Long Bow     ",12,71.66666,20,23,3,400,0,8,#TRUE#,877,212
+"Zephyrium Zircon Composite Bow",12,75,21,24,3,500,0,8,#TRUE#,910,225
+"Titanium Short Bow            ",12,78.33334,22,25,3,300,0,8,#TRUE#,943,238
+"Titanium Long Bow             ",12,81.66666,23,26,3,400,0,8,#TRUE#,977,250
+"Titanium Composite Bow        ",12,85,24,27,3,500,0,8,#TRUE#,1010,262
+"Zephyrium Titanium Short Bow  ",12,78.33334,22,25,3,300,0,8,#TRUE#,943,238
+"Zephyrium Titanium Long Bow   ",12,81.66666,23,26,3,400,0,8,#TRUE#,977,250
+"Zephyrium Titanium Composite B",12,85,24,27,3,500,0,8,#TRUE#,1010,262
+"Hessite Short Bow             ",12,88.33334,25,28,3,300,0,8,#TRUE#,1043,275
+"Hessite Long Bow              ",12,91.66666,26,29,3,400,0,8,#TRUE#,1077,287
+"Hessite Composite Bow         ",12,95,27,30,3,500,0,8,#TRUE#,1110,300
+"Zephyrium Hessite Short Bow   ",12,88.33334,25,28,3,300,0,8,#TRUE#,1043,275
+"Zephyrium Hessite Long Bow    ",12,91.66666,26,29,3,400,0,8,#TRUE#,1077,287
+"Zephyrium Hessite Composite Bo",12,95,27,30,3,500,0,8,#TRUE#,1110,300
+"Tungsten Short Bow            ",12,98.33334,28,31,3,300,0,8,#TRUE#,1143,313
+"Tungsten Long Bow             ",12,101.6667,29,32,3,400,0,8,#TRUE#,1177,325
+"Tungsten Composite Bow        ",12,105,30,33,3,500,0,8,#TRUE#,1210,338
+"Zephyrium Tungsten Short Bow  ",12,98.33334,28,31,3,300,0,8,#TRUE#,1143,313
+"Zephyrium Tungsten Long Bow   ",12,101.6667,29,32,3,400,0,8,#TRUE#,1177,325
+"Zephyrium Tungsten Composite B",12,105,30,33,3,500,0,8,#TRUE#,1210,338
+"Damon Short Bow               ",12,108.3333,31,34,3,300,0,8,#TRUE#,1243,350
+"Damon Long Bow                ",12,111.6667,32,35,3,400,0,8,#TRUE#,1277,362
+"Damon Composite Bow           ",12,115,33,36,3,500,0,8,#TRUE#,1310,375
+"Zephyrium Damon Short Bow     ",12,108.3333,31,34,3,300,0,8,#TRUE#,1243,350
+"Zephyrium Damon Long Bow      ",12,111.6667,32,35,3,400,0,8,#TRUE#,1277,362
+"Zephyrium Damon Composite Bow ",12,115,33,36,3,500,0,8,#TRUE#,1310,375
+"Artifact Bow                  ",12,0,0,0,2,400,0,8,#TRUE#,160,100
+"Practice Arrow                ",0,0,0,0,0,1,0,1,#FALSE#,-1,0
+"Arrow                         ",0,0,0,0,0,2,0,1,#FALSE#,1,0
+"Fine Arrow                    ",0,0,0,2,0,2,0,1,#FALSE#,2,0
+"Blunt Arrow                   ",0,0,0,0,0,2,0,1,#FALSE#,1,0
+"Broad Arrow                   ",0,0,0,0,0,2,0,1,#FALSE#,1,0
+"Poison Arrows                 ",0,0,0,5,0,2,75,1,#FALSE#,2,0
+"Magic Arrow                   ",0,0,0,0,0,2,0,1,#FALSE#,2,0
+"Gold Arrow                    ",0,0,0,4,0,2,0,1,#FALSE#,3,0
+"Fire Arrow                    ",0,0,0,0,0,2,0,1,#FALSE#,2,0
+"Ice Arrow                     ",0,0,0,0,0,2,0,1,#FALSE#,2,0
+"Lightning Arrow               ",0,0,0,0,0,2,0,1,#FALSE#,2,0
+"Bolt                          ",0,0,0,0,0,2,0,1,#FALSE#,1,0
+"Fine Bolt                     ",0,0,0,2,0,2,0,1,#FALSE#,2,0
+"Fire Bolt                     ",0,0,0,0,0,2,0,1,#FALSE#,2,0
+"Ice Bolt                      ",0,0,0,0,0,2,0,1,#FALSE#,2,0
+"Practice Bolt                 ",0,0,0,0,0,1,0,1,#FALSE#,-1,0
+"Gold Bolt                     ",0,0,0,4,0,2,0,1,#FALSE#,3,0
+"Magic Bolt                    ",0,0,0,0,0,2,0,1,#FALSE#,2,0
+"Broad Bolt                    ",0,0,0,0,0,2,0,1,#FALSE#,1,0
+"Blunt Bolt                    ",0,0,0,0,0,2,0,1,#FALSE#,1,0
+"Lightning Bolt                ",0,0,0,0,0,2,0,1,#FALSE#,2,0
+"Practice CrossBow             ",13,22.5,7,11,4,500,0,8,#TRUE#,1,1
+"Copper Light CrossBow         ",13,25,8,12,4,500,0,8,#TRUE#,410,38
+"Copper Heavy CrossBow         ",13,27.5,9,13,4,600,0,8,#TRUE#,435,47
+"Copper Composite CrossBow     ",13,30,10,14,4,700,0,8,#TRUE#,460,56
+"Zephyrium Copper Light CrossBo",13,25,8,12,4,500,0,8,#TRUE#,410,38
+"Zephyrium Copper Heavy CrossBo",13,27.5,9,13,4,600,0,8,#TRUE#,435,47
+"Zephyrium Copper Composite Cro",13,30,10,14,4,700,0,8,#TRUE#,460,56
+"Silver Light CrossBow         ",13,32.5,11,15,4,500,0,8,#TRUE#,485,66
+"Silver Heavy CrossBow         ",13,35,12,16,4,600,0,8,#TRUE#,510,75
+"Silver Composite CrossBow     ",13,37.5,13,17,4,700,0,8,#TRUE#,535,84
+"Zephyrium Silver Light CrossBo",13,32.5,11,15,4,500,0,8,#TRUE#,485,66
+"Zephyrium Silver Heavy CrossBo",13,35,12,16,4,600,0,8,#TRUE#,510,75
+"Zephyrium Silver Composite Cro",13,37.5,13,17,4,700,0,8,#TRUE#,535,84
+"Iron Light CrossBow           ",13,40,14,18,4,500,0,9,#TRUE#,580,94
+"Iron Heavy CrossBow           ",13,42.5,15,19,4,600,0,9,#TRUE#,605,103
+"Iron Composite CrossBow       ",13,45,16,20,4,700,0,9,#TRUE#,630,112
+"Zephyrium Iron Light CrossBow ",13,40,14,18,4,500,0,9,#TRUE#,580,94
+"Zephyrium Iron Heavy CrossBow ",13,42.5,15,19,4,600,0,9,#TRUE#,605,103
+"Zephyrium Iron Composite Cross",13,45,16,20,4,700,0,9,#TRUE#,630,112
+"Steel Light CrossBow          ",13,47.5,17,21,4,500,0,9,#TRUE#,655,122
+"Steel Heavy CrossBow          ",13,50,18,22,4,600,0,9,#TRUE#,680,131
+"Steel Composite CrossBow      ",13,52.5,19,23,4,700,0,9,#TRUE#,705,141
+"Zephyrium Steel Light CrossBow",13,47.5,17,21,4,500,0,9,#TRUE#,655,122
+"Zephyrium Steel Heavy CrossBow",13,50,18,22,4,600,0,9,#TRUE#,680,131
+"Zephyrium Steel Composite Cros",13,52.5,19,23,4,700,0,9,#TRUE#,705,141
+"Gold Light CrossBow           ",13,55,20,24,4,500,0,10,#TRUE#,750,150
+"Gold Heavy CrossBow           ",13,57.5,21,25,4,600,0,10,#TRUE#,775,159
+"Gold Composite CrossBow       ",13,60,22,26,4,700,0,10,#TRUE#,800,169
+"Zephyrium Gold Light CrossBow ",13,55,20,24,4,500,0,10,#TRUE#,750,150
+"Zephyrium Gold Heavy CrossBow ",13,57.5,21,25,4,600,0,10,#TRUE#,775,159
+"Zephyrium Gold Composite Cross",13,60,22,26,4,700,0,10,#TRUE#,800,169
+"Zircon Light CrossBow         ",13,62.5,23,27,4,500,0,10,#TRUE#,825,178
+"Zircon Heavy CrossBow         ",13,65,24,28,4,600,0,10,#TRUE#,850,188
+"Zircon Composite CrossBow     ",13,67.5,25,29,4,700,0,10,#TRUE#,875,197
+"Zephyrium Zircon Light CrossBo",13,62.5,23,27,4,500,0,10,#TRUE#,825,178
+"Zephyrium Zircon Heavy CrossBo",13,65,24,28,4,600,0,10,#TRUE#,850,188
+"Zephyrium Zircon Composite Cro",13,67.5,25,29,4,700,0,10,#TRUE#,875,197
+"Titanium Light CrossBow       ",13,70,26,30,4,500,0,11,#TRUE#,920,206
+"Titanium Heavy CrossBow       ",13,72.5,27,31,4,600,0,11,#TRUE#,945,216
+"Titanium Composite CrossBow   ",13,75,28,32,4,700,0,11,#TRUE#,970,225
+"Zephyrium Titanium Light Cross",13,70,26,30,4,500,0,11,#TRUE#,920,206
+"Zephyrium Titanium Heavy Cross",13,72.5,27,31,4,600,0,11,#TRUE#,945,216
+"Zephyrium Titanium Composite C",13,75,28,32,4,700,0,11,#TRUE#,970,225
+"Hessite Light CrossBow        ",13,77.5,29,33,4,500,0,11,#TRUE#,995,234
+"Hessite Heavy CrossBow        ",13,80,30,34,4,600,0,11,#TRUE#,1020,244
+"Hessite Composite CrossBow    ",13,82.5,31,35,4,700,0,11,#TRUE#,1045,253
+"Zephyrium Hessite Light CrossB",13,77.5,29,33,4,500,0,11,#TRUE#,995,234
+"Zephyrium Hessite Heavy CrossB",13,80,30,34,4,600,0,11,#TRUE#,1020,244
+"Zephyrium Hessite Composite Cr",13,82.5,31,35,4,700,0,11,#TRUE#,1045,253
+"Tungsten Light CrossBow       ",13,85,32,36,4,500,0,12,#TRUE#,1090,262
+"Tungsten Heavy CrossBow       ",13,87.5,33,37,4,600,0,12,#TRUE#,1115,272
+"Tungsten Composite CrossBow   ",13,90,34,38,4,700,0,12,#TRUE#,1140,281
+"Zephyrium Tungsten Light Cross",13,85,32,36,4,500,0,12,#TRUE#,1090,262
+"Zephyrium Tungsten Heavy Cross",13,87.5,33,37,4,600,0,12,#TRUE#,1115,272
+"Zephyrium Tungsten Composite C",13,90,34,38,4,700,0,12,#TRUE#,1140,281
+"Damon Light CrossBow          ",13,92.5,35,39,4,500,0,12,#TRUE#,1165,291
+"Damon Heavy CrossBow          ",13,95,36,40,4,600,0,12,#TRUE#,1190,300
+"Damon Composite CrossBow      ",13,97.5,37,41,4,700,0,12,#TRUE#,1215,309
+"Zephyrium Damon Light CrossBow",13,92.5,35,39,4,500,0,12,#TRUE#,1165,291
+"Zephyrium Damon Heavy CrossBow",13,95,36,40,4,600,0,12,#TRUE#,1190,300
+"Zephyrium Damon Composite Cros",13,97.5,37,41,4,700,0,12,#TRUE#,1215,309
+"Artifact CrossBow             ",13,0,0,0,2.5,750,0,12,#TRUE#,240,100
+"Gremlin Claw                  ",2,200,9,11,1,100,10,1,#FALSE#,2020,200
+"Gremlin Sword                 ",4,140,8,14,1.5,150,10,1,#FALSE#,1420,200
+"Gremlin Maul                  ",8,133.3333,17,23,1.5,500,0,1,#TRUE#,1353,250
+"Dragon Breath                 ",14,125,20,30,2,10000,0,5,#FALSE#,1350,412
+"Mongrim Boulder               ",14,83.33334,20,30,3,10000,0,5,#FALSE#,933,400
+"Equalizer Sword               ",42,50,5,10,1.5,10,0,1,#FALSE#,520,100
+"Equalizer Shrokrim            ",42,25,5,10,3,10,0,8,#FALSE#,410,100
+"Zephyrium Copper Cestus       ",2,20,1,3,1,100,0,1,#FALSE#,220,19
+"Zephyrium Copper Claw         ",2,20,1,3,1,100,0,1,#FALSE#,220,19
+"Zephyrium Copper Katar        ",2,20,1,3,1,100,0,1,#FALSE#,220,19
+"Zephyrium Copper Heavy Cestus ",2,25,1,4,1,150,0,1,#FALSE#,270,38
+"Zephyrium Copper Heavy Claw   ",2,25,1,4,1,150,0,1,#FALSE#,270,38
+"Zephyrium Copper Heavy Katar  ",2,25,1,4,1,150,0,1,#FALSE#,270,38
+"Zephyrium Silver Cestus       ",2,35,2,5,1,100,0,1,#FALSE#,370,75
+"Zephyrium Silver Claw         ",2,35,2,5,1,100,0,1,#FALSE#,370,75
+"Zephyrium Silver Katar        ",2,35,2,5,1,100,0,1,#FALSE#,370,75
+"Zephyrium Silver Heavy Cestus ",2,40,3,5,1,150,0,1,#FALSE#,420,94
+"Zephyrium Silver Heavy Claw   ",2,40,3,5,1,150,0,1,#FALSE#,420,94
+"Zephyrium Silver Heavy Katar  ",2,40,3,5,1,150,0,1,#FALSE#,420,94
+"Zephyrium Iron Cestus         ",2,50,4,6,1,100,0,1,#FALSE#,520,131
+"Zephyrium Iron Claw           ",2,50,4,6,1,100,0,1,#FALSE#,520,131
+"Zephyrium Iron Katar          ",2,50,4,6,1,100,0,1,#FALSE#,520,131
+"Zephyrium Iron Heavy Cestus   ",2,55,4,7,1,150,0,1,#FALSE#,570,150
+"Zephyrium Iron Heavy Claw     ",2,55,4,7,1,150,0,1,#FALSE#,570,150
+"Zephyrium Iron Heavy Katar    ",2,55,4,7,1,150,0,1,#FALSE#,570,150
+"Zephyrium Steel Cestus        ",2,65,5,8,1,100,0,1,#FALSE#,670,188
+"Zephyrium Steel Claw          ",2,65,5,8,1,100,0,1,#FALSE#,670,188
+"Zephyrium Steel Katar         ",2,65,5,8,1,100,0,1,#FALSE#,670,188
+"Zephyrium Steel Heavy Cestus  ",2,70,6,8,1,150,0,1,#FALSE#,720,206
+"Zephyrium Steel Heavy Claw    ",2,70,6,8,1,150,0,1,#FALSE#,720,206
+"Zephyrium Steel Heavy Katar   ",2,70,6,8,1,150,0,1,#FALSE#,720,206
+"Zephyrium Gold Cestus         ",2,80,7,9,1,100,0,1,#FALSE#,820,244
+"Zephyrium Gold Claw           ",2,80,7,9,1,100,0,1,#FALSE#,820,244
+"Zephyrium Gold Katar          ",2,80,7,9,1,100,0,1,#FALSE#,820,244
+"Zephyrium Gold Heavy Cestus   ",2,85,7,10,1,150,0,1,#FALSE#,870,262
+"Zephyrium Gold Heavy Claw     ",2,85,7,10,1,150,0,1,#FALSE#,870,262
+"Zephyrium Gold Heavy Katar    ",2,85,7,10,1,150,0,1,#FALSE#,870,262
+"Zephyrium Zircon Cestus       ",2,95,8,11,1,100,0,1,#FALSE#,970,300
+"Zephyrium Zircon Claw         ",2,95,8,11,1,100,0,1,#FALSE#,970,300
+"Zephyrium Zircon Katar        ",2,95,8,11,1,100,0,1,#FALSE#,970,300
+"Zephyrium Zircon Heavy Cestus ",2,100,9,11,1,150,0,1,#FALSE#,1020,319
+"Zephyrium Zircon Heavy Claw   ",2,100,9,11,1,150,0,1,#FALSE#,1020,319
+"Zephyrium Zircon Heavy Katar  ",2,100,9,11,1,150,0,1,#FALSE#,1020,319
+"Zephyrium Titanium Cestus     ",2,110,10,12,1,100,0,1,#FALSE#,1120,356
+"Zephyrium Titanium Claw       ",2,110,10,12,1,100,0,1,#FALSE#,1120,356
+"Zephyrium Titanium Katar      ",2,110,10,12,1,100,0,1,#FALSE#,1120,356
+"Zephyrium Titanium Heavy Cestu",2,115,10,13,1,150,0,1,#FALSE#,1170,375
+"Zephyrium Titanium Heavy Claw ",2,115,10,13,1,150,0,1,#FALSE#,1170,375
+"Zephyrium Titanium Heavy Katar",2,115,10,13,1,150,0,1,#FALSE#,1170,375
+"Zephyrium Hessite Cestus      ",2,125,11,14,1,100,0,1,#FALSE#,1270,412
+"Zephyrium Hessite Claw        ",2,125,11,14,1,100,0,1,#FALSE#,1270,412
+"Zephyrium Hessite Katar       ",2,125,11,14,1,100,0,1,#FALSE#,1270,412
+"Zephyrium Hessite Heavy Cestus",2,130,12,14,1,150,0,1,#FALSE#,1320,431
+"Zephyrium Hessite Heavy Claw  ",2,130,12,14,1,150,0,1,#FALSE#,1320,431
+"Zephyrium Hessite Heavy Katar ",2,130,12,14,1,150,0,1,#FALSE#,1320,431
+"Zephyrium Tungsten Cestus     ",2,140,13,15,1,100,0,1,#FALSE#,1420,469
+"Zephyrium Tungsten Claw       ",2,140,13,15,1,100,0,1,#FALSE#,1420,469
+"Zephyrium Tungsten Katar      ",2,140,13,15,1,100,0,1,#FALSE#,1420,469
+"Zephyrium Tungsten Heavy Cestu",2,145,13,16,1,150,0,1,#FALSE#,1470,488
+"Zephyrium Tungsten Heavy Claw ",2,145,13,16,1,150,0,1,#FALSE#,1470,488
+"Zephyrium Tungsten Heavy Katar",2,145,13,16,1,150,0,1,#FALSE#,1470,488
+"Zephyrium Damon Cestus        ",2,155,14,17,1,100,0,1,#FALSE#,1570,525
+"Zephyrium Damon Claw          ",2,155,14,17,1,100,0,1,#FALSE#,1570,525
+"Zephyrium Damon Katar         ",2,155,14,17,1,100,0,1,#FALSE#,1570,525
+"Zephyrium Damon Heavy Cestus  ",2,160,15,17,1,150,0,1,#FALSE#,1620,544
+"Zephyrium Damon Heavy Claw    ",2,160,15,17,1,150,0,1,#FALSE#,1620,544
+"Zephyrium Damon Heavy Katar   ",2,160,15,17,1,150,0,1,#FALSE#,1620,544
